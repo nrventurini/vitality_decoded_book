@@ -1,0 +1,25 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Python cache (si se usa procesamiento)
+__pycache__/
+*.py[cod]
+
+# Archivos de respaldo de editores
+*.swp
+*.swo
+*.swn
+
+# Archivos de Office temporales
+~$*
+
+# Archivos ocultos de Mac/Linux
+.Trashes
+.fseventsd
+.Spotlight-V100
