@@ -20,8 +20,9 @@ Crear un libro transformador, riguroso y emocionalmente poderoso, que explique l
 │   ├── CAP_01_Inestabilidad_Genomica_v1.0.md│   
 │   ├── CAP_02_Daño_Oxidativo_v1.0.md
 │   ├── CAP_03_Senescencia_Celular_v1.0.md
+|   ├── ... (un archivo por capítulo, con versión)
 │   ├── CONCLUSIONES_LIBRO.md
-│   └── ... (un archivo por capítulo, con versión)
+│   └── ... 
 │
 ├── 📁 visuals/                              # Prompts de ilustraciones + índice visual
 │   ├── VIS-01_Senescencia_SASP.md
