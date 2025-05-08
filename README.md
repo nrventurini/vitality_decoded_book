@@ -16,9 +16,11 @@ Crear un libro transformador, riguroso y emocionalmente poderoso, que explique l
 ```
 📦 vitality-decoded-book/
 ├── 📁 chapters/                              # Cada capítulo en versión controlada (.md)
-│   ├── CAP_01_Inestabilidad_Genomica_v1.0.md
+|   ├── INTRODUCCIÓN_LIBRO.md
+│   ├── CAP_01_Inestabilidad_Genomica_v1.0.md│   
 │   ├── CAP_02_Daño_Oxidativo_v1.0.md
 │   ├── CAP_03_Senescencia_Celular_v1.0.md
+│   ├── CONCLUSIONES_LIBRO.md
 │   └── ... (un archivo por capítulo, con versión)
 │
 ├── 📁 visuals/                              # Prompts de ilustraciones + índice visual
