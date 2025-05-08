@@ -52,4 +52,33 @@
 ## 🧬 CIERRE INSPIRADOR OBLIGATORIO
 > “La longevidad no empieza en un laboratorio. Empieza en tus hábitos...”
 
-🔓 Este PROMPT puede reiniciar la creación del libro en cualquier entorno avanzado de IA con estándares profesionales.
+---
+
+## 🗂 ORGANIZACIÓN DEL REPOSITORIO (ESTRUCTURA DE CARPETAS)
+
+Todos los archivos editoriales generados para este libro están organizados así:
+
+📁 chapters/  
+• INTRODUCCION_LIBRO.md  
+• CAP_01_Inestabilidad_Genomica.md  
+• CAP_XX_Template.md  
+• CONCLUSIONES_LIBRO.md  
+
+📁 docs/  
+• estructura_libro.md  
+• indice_contenido.md  
+• glosario_tecnico_popular.md  
+
+📁 references/  
+• fuentes_bibliograficas_completas.md  
+• indice_compuestos.md  
+• indice_biohacks.md  
+
+📁 visuals/  
+• indice_visual.md  
+• VIS-XX.md (cuando apliquen)
+
+📁 prompts/  
+• VITALITY_DECODED_PROMPT_MAESTRO.md
+
+👉 Esta organización permite continuar el libro en cualquier momento con máximo orden y eficiencia editorial.
