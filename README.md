@@ -71,5 +71,9 @@ Este repositorio está gestionado por [N.R. Venturini] y su equipo editorial, co
 Este proyecto es privado. No publicar contenido sin aprobación editorial.
 
 
+🔗 Ver tabla completa de referencias científicas aquí: [Google Sheet](https://docs.google.com/spreadsheets/d/1Uk0qNjB_zdAV44oTkvFth20qL6L7OWHal_iXTgzIHYg/edit?usp=sharing)
+
+
+
 
 
