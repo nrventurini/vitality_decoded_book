@@ -27,11 +27,19 @@ Crear un libro transformador, riguroso y emocionalmente poderoso, que explique l
 ├── 📁 visuals/                              # Prompts de ilustraciones + índice visual
 │   ├── VIS-01_Senescencia_SASP.md
 │   ├── VIS-02_Mitocondria_Sana_vs_Disfuncional.md
+|   ├── ...
 │   └── indice_visual.md
 │
-├── 📁 references/                          # Hoja de fuentes validadas + bibliografía final
+├── 📁 references/                          # Hoja de fuentes validadas + bibliografía final + índices temáticos
 │   ├── fuentes_validacion.xlsx
-│   └── fuentes_bibliograficas_completas.md
+│   |── indice_compuestos.md
+│   |── indice_biohacks.md│
+|   └── fuentes_bibliograficas_completas.md
+
+📁 docs/
+│   └── indice_contenido.md
+│   └── estructura_libro.md
+│   └── glosario_tecnico_popular.md
 │
 ├── 📁 prompts/                             # Prompt maestro del proyecto
 │   └── VITALITY_DECODED_PROMPT_MAESTRO.md
