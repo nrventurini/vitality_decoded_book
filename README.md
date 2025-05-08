@@ -12,15 +12,29 @@ Crear un libro transformador, riguroso y emocionalmente poderoso, que explique l
 
 ## 🧠 Estructura del repositorio
 
+                
 ```
 📦 vitality-decoded-book/
-├── 📁 chapters/                  # Cada capítulo en versión controlada (.md)
-├── 📁 visuals/                   # Prompts de ilustraciones + índice visual
-├── 📁 references/                # Hoja de fuentes validadas + bibliografía final
-├── 📁 prompts/                   # Prompt maestro del proyecto
-├── README.md                    # Este archivo
-└── .gitignore                   # Archivos a excluir del control de versiones
-```
+├── 📁 chapters/                              # Cada capítulo en versión controlada (.md)
+│   ├── CAP_01_Inestabilidad_Genomica_v1.0.md
+│   ├── CAP_02_Daño_Oxidativo_v1.0.md
+│   ├── CAP_03_Senescencia_Celular_v1.0.md
+│   └── ... (un archivo por capítulo, con versión)
+│
+├── 📁 visuals/                              # Prompts de ilustraciones + índice visual
+│   ├── VIS-01_Senescencia_SASP.md
+│   ├── VIS-02_Mitocondria_Sana_vs_Disfuncional.md
+│   └── indice_visual.md
+│
+├── 📁 references/                          # Hoja de fuentes validadas + bibliografía final
+│   ├── fuentes_validacion.xlsx
+│   └── fuentes_bibliograficas_completas.md
+│
+├── 📁 prompts/                             # Prompt maestro del proyecto
+│   └── VITALITY_DECODED_PROMPT_MAESTRO.md
+│
+├── README.md                                # Este archivo
+└── .gitignore                               # Archivos a excluir del control de versiones
 
 ---
 
@@ -44,3 +58,7 @@ Este repositorio está gestionado por [N.R. Venturini] y su equipo editorial, co
 ## 🔒 Notas
 
 Este proyecto es privado. No publicar contenido sin aprobación editorial.
+
+
+
+
