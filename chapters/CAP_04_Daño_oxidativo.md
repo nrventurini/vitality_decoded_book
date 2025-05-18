@@ -68,7 +68,7 @@ También se están desarrollando sensores inteligentes para cuantificar estrés 
 > - Provoca **inestabilidad genómica** al dañar el ADN. (Se profundizará en Capítulo 6)
 > - Exacerba la **disfunción mitocondrial** al crear un bucle de deterioro energético. (Se profundizará en Capítulo 3)
 > - Contribuye a la **pérdida de proteostasis** al oxidar proteínas clave. (Se profundizará en Capítulo 9)
-> - Y alimenta la **inflammaging**, parte de la alteración crónica en la comunicación intercelular. (Se profundizará en Capítulo)
+> - Y alimenta la **inflammaging**, parte de la alteración crónica en la comunicación intercelular. (Se profundizará en Capítulo 17)
 >
 > Por eso, este capítulo le otorga un lugar protagónico: no como un saboteador aislado, sino como un **catalizador silencioso** del colapso biológico.
 
