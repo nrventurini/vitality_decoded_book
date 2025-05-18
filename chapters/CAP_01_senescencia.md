@@ -14,7 +14,7 @@ Estudios clínicos han encontrado niveles elevados de células senescentes en te
 
 Para entender la senescencia celular, imagina que cada célula es una máquina altamente precisa. Tiene sensores de daño, sistemas de reparación y una línea de producción. Pero, cuando el daño acumulado supera un umbral crítico —ya sea por radiación, estrés oxidativo, telómeros acortados o señales oncogénicas—, la célula activa un “modo de emergencia”.
 
-Este modo detiene el ciclo celular, impide que se divida, y cambia su comportamiento: comienza a secretar señales proinflamatorias (como IL-6, IL-8, MMPs). Es una especie de “alarma molecular” para advertir que algo anda mal. El problema: cuando esta alarma no se apaga, el tejido entero sufre las consecuencias.
+Este modo detiene el ciclo celular, impide que se divida, y cambia su comportamiento: comienza a secretar señales proinflamatorias (como IL-6, IL-8, MMPs). Es una especie de “alarma molecular” para advertir que algo anda mal. El problema: cuando esta alarma no se apaga, el tejido entero sufre las consecuencias [3].
 
 En lugar de morirse por apoptosis (suicidio celular controlado), la célula entra en un estado zombi: está viva, pero disfuncional. Y a diferencia de la apoptosis, que permite una limpieza ordenada, la senescencia solo suma ruido y caos a largo plazo.
 
@@ -27,10 +27,10 @@ Aunque aún no existen fármacos universales aprobados para eliminar todas las c
 
 **Hábitos con evidencia clínica en humanos:**
 
-- **Ayuno intermitente (16:8 o 5:2):** reduce marcadores inflamatorios y mejora autofagia, lo que podría ayudar a eliminar células disfuncionales [3].
-- **Ejercicio moderado regular:** disminuye la carga senescente en tejido adiposo y mejora el entorno sistémico [4].
-- **Control glucémico estricto:** la hiperglucemia crónica acelera la senescencia, especialmente en vasos sanguíneos [5].
-- **Reducción de exposición a contaminantes (aire, tabaco, metales pesados):** demostrado como inductor epigenético de senescencia prematura [6].
+- **Ayuno intermitente (16:8 o 5:2):** reduce marcadores inflamatorios y mejora autofagia, lo que podría ayudar a eliminar células disfuncionales [4].
+- **Ejercicio moderado regular:** disminuye la carga senescente en tejido adiposo y mejora el entorno sistémico [5].
+- **Control glucémico estricto:** la hiperglucemia crónica acelera la senescencia, especialmente en vasos sanguíneos [6].
+- **Reducción de exposición a contaminantes (aire, tabaco, metales pesados):** demostrado como inductor epigenético de senescencia prematura [7].
 
 ## 4. Demonios psicológicos 🧠
 
@@ -44,7 +44,7 @@ Recuerda: tu cuerpo escucha todo lo que tu mente repite.
 
 Los **senolíticos** son una nueva clase de fármacos diseñados para eliminar selectivamente las células senescentes sin dañar las sanas.
 
-Algunos compuestos como **dasatinib + quercetina** han mostrado resultados prometedores en modelos animales y en estudios piloto en humanos, reduciendo marcadores de inflamación y mejorando la función física en adultos mayores [7].
+Algunos compuestos como **dasatinib + quercetina** han mostrado resultados prometedores en modelos animales y en estudios piloto en humanos, reduciendo marcadores de inflamación y mejorando la función física en adultos mayores [8].
 
 Otros como **fisetina** y **navitoclax** están siendo evaluados en ensayos clínicos. Sin embargo, su uso aún no está aprobado fuera de contextos experimentales, y no se recomienda automedicación. Lo importante: la ciencia va en camino, pero tú puedes empezar hoy con tus hábitos.
 
