@@ -1,0 +1,107 @@
+# Capítulo 9 – Desregulación de la detección de nutrientes
+
+---
+
+## 🧠 Introducción al problema
+
+Tu cuerpo no solo necesita nutrientes: necesita **saber cuándo los tiene**. Y eso, aunque parezca simple, es una de las funciones más finamente calibradas de tu biología. Cada vez que comes, no solo alimentas tus células: activas sensores moleculares que regulan el envejecimiento, la regeneración, el metabolismo y la inflamación.
+
+Cuando estos sensores —como **mTOR**, **AMPK** o **insulina**— se activan de forma crónica por excesos alimentarios, estrés metabólico o sedentarismo, se produce una desregulación invisible que acelera el envejecimiento. Tu cuerpo entra en modo “crecer sin control”, olvidando el modo “reparar y reciclar”.
+
+Esta desregulación no es solo una vía hacia la obesidad. Es un acelerador de enfermedades cardiovasculares, neurodegenerativas, cáncer y fragilidad prematura.
+
+---
+
+## 🧬 Explicación molecular accesible
+
+### 🔹 mTOR (mammalian Target of Rapamycin)
+
+- Sensor de aminoácidos, especialmente leucina.
+- Promueve el crecimiento, la síntesis proteica y la proliferación celular.
+- Cuando está **sobreactivado crónicamente**: bloquea la autofagia, acelera el envejecimiento celular, y favorece el crecimiento tumoral.
+
+### 🔸 AMPK (AMP-activated Protein Kinase)
+
+- Se activa cuando hay **déficit energético** (p. ej. durante el ayuno o ejercicio).
+- Estimula la quema de grasas, la autofagia, la biogénesis mitocondrial y la longevidad celular.
+- Su activación se **inhibe por el exceso calórico crónico**.
+
+### 🔸 Insulina e IGF-1
+
+- Responden a la ingesta de carbohidratos y proteínas.
+- Altos niveles persistentes = resistencia insulínica, inflamación, riesgo de diabetes tipo 2 y cáncer.
+
+> [ver VIS-09] Esquema que compara el perfil de activación saludable vs desregulado de mTOR, AMPK e insulina tras distintas rutinas alimentarias.
+
+El desequilibrio entre estas rutas —mTOR siempre encendido, AMPK silenciado, insulina elevada— crea un entorno **pro-envejecimiento** incluso en personas jóvenes con normopeso.
+
+---
+
+## 🔥 Hackea tus hábitos
+
+Puedes reequilibrar tus sensores de nutrientes de forma potente con estrategias sostenibles:
+
+- **Ayuno intermitente flexible (12–16h)**: activa AMPK y reduce mTOR.
+- **Ejercicio antes de comer**: mejora la sensibilidad a la insulina y activa AMPK.
+- **Comidas ricas en vegetales, fibra y grasas saludables**: reducen picos de glucosa y activación insulínica.
+- **Controlar la cantidad y el momento de la proteína**: concentrar proteínas por la noche reduce activación crónica de mTOR.
+- **Evitar snacks frecuentes o comidas cada 2 horas**: da espacio a los ciclos de reparación metabólica.
+
+> No se trata de comer menos. Se trata de comer con inteligencia metabólica.
+
+---
+
+## 🧠 Demonios psicológicos
+
+- “Si como menos veces, perderé masa muscular.”
+- “Necesito snacks para mantener el metabolismo activo.”
+- “No puedo dejar de picar, es mi única fuente de placer.”
+
+> Demonio: **El Glucoadicto Funcional**. Te hace creer que tu energía depende de estímulos constantes, cuando en realidad solo necesitas restaurar tus sensores.
+
+---
+
+## 🚀 Biohack del futuro
+
+Se están desarrollando **miméticos metabólicos** como la **metformina**, **berberina** o nuevos moduladores de AMPK, que imitan los efectos del ayuno o el ejercicio sin necesidad de aplicarlos directamente.
+
+También emergen sensores portátiles que miden la respuesta personalizada a los alimentos (monitores de glucosa, apps de IA nutricional) y algoritmos que optimizan tu ventana alimentaria diaria según ritmos circadianos y biomarcadores.
+
+> El futuro de la nutrición no es solo qué comes. Es cómo lo detecta tu cuerpo.
+
+---
+
+## 💬 Frases motivacionales
+
+- “No se trata de cuántas calorías entran, sino de cuántas señales se activan.”
+- “Restaurar tus sensores es restaurar tu juventud metabólica.”
+- “La longevidad empieza cuando mTOR escucha y AMPK responde.”
+
+---
+
+## 🌀 Mantra de longevidad
+
+> *“Comer bien no es llenarme, es activarme con inteligencia.”*
+
+---
+
+## 🔍 Referencias científicas
+
+[1] López-Otín, C., et al. (2013). The Hallmarks of Aging. *Cell*.
+
+[2] Kennedy, B. K., et al. (2014). Geroscience: linking aging to chronic disease. *Cell*.
+
+[3] Saxton, R. A., & Sabatini, D. M. (2017). mTOR signaling in growth, metabolism, and disease. *Cell*.
+
+[4] Canto, C., & Auwerx, J. (2009). AMPK regulation of mitochondrial biogenesis. *Cell Metabolism*.
+
+[5] Fontana, L., et al. (2010). Extending healthy life span from yeast to humans. *Science*.
+
+---
+
+## 🎨 VISUALIZACIÓN PROPUESTA (VIS-09)
+
+| Código | Título                               | Capítulo | Prioridad | Descripción pedagógica                                                                              | Prompt IA                                                                                                                      | Generada | Enlace |
+|--------|---------------------------------------|----------|-----------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-09 | Rutas de detección de nutrientes      | Cap. 9   | A         | Esquema comparativo de rutas mTOR, AMPK e insulina: activación equilibrada vs activación crónica desregulada | “Diagram showing balanced vs dysregulated nutrient sensing: mTOR, AMPK, insulin pathways, after meals vs fasting vs exercise” | ⬜        | —      |
+
