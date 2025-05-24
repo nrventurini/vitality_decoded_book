@@ -42,4 +42,68 @@ Aunque la bioelectricidad parezca intangible, puedes protegerla y potenciarla co
 
 - **Ejercicio físico aeróbico y de resistencia**: mejora la función mitocondrial e iónica.
 - **Ritmo circadiano sincronizado**: regula canales iónicos dependientes de luz/oscuridad.
-- **Buena hidratación con electrolitos naturales**: esencial p
+- **Buena hidratación con electrolitos naturales**: esencial para el flujo iónico.
+- **Dieta rica en potasio, magnesio y grasas saludables**: nutre la membrana y su función eléctrica.
+- **Evitar estrés crónico**: el cortisol altera la función de canales de calcio.
+
+> La electricidad de tu cuerpo también se entrena. Y se protege.
+
+---
+
+## 🧠 Demonios psicológicos
+
+- “Eso suena demasiado técnico. ¿A mí qué me importa el voltaje?”
+- “Mientras mi corazón lata, todo va bien.”
+- “La energía viene del café, no de los iones.”
+
+> Demonio: **El Apagado Crónico**. Cree que el cansancio constante es normal, sin saber que su red eléctrica interna lleva años sin mantenimiento.
+
+---
+
+## 🚀 Biohack del futuro
+
+Avances emergentes exploran cómo restaurar la bioelectricidad deteriorada:
+
+- **Dispositivos de estimulación eléctrica no invasiva** (como tDCS y PEMF) para regeneración cerebral y muscular.
+- **Andamiajes bioeléctricos** que inducen polaridad regenerativa en heridas y órganos.
+- **Terapias con nanomateriales conductores** para restablecer el potencial de membrana.
+- **Mapeo bioeléctrico personalizado** para prevenir deterioro antes de que se manifieste clínicamente.
+
+> La longevidad eléctrica no es ciencia ficción. Es la nueva frontera regenerativa.
+
+---
+
+## 💬 Frases motivacionales
+
+- “Cada célula es una chispa. Mantén tu red encendida.”
+- “El envejecimiento no apaga la luz. Apaga el voltaje.”
+- “Cuidar tu electricidad interna es cuidar tu potencial vital.”
+
+---
+
+## 🌀 Mantra de longevidad
+
+> *“Donde hay voltaje, hay vitalidad.”*
+
+---
+
+## 🔍 Referencias científicas
+
+[1] Levin, M. (2012). Morphogenetic fields in embryogenesis, regeneration, and cancer: bioelectric signals. *Trends in Cell Biology*.
+
+[2] Sundelacruz, S., et al. (2009). Membrane potential controls stem cell differentiation. *PLOS ONE*.
+
+[3] Blackiston, D. J., et al. (2009). Bioelectric controls of cell proliferation. *Developmental Dynamics*.
+
+[4] Tseng, A. S., & Levin, M. (2013). Bioelectric signaling in regeneration. *Current Opinion in Genetics & Development*.
+
+[5] Zhang, J., et al. (2020). Bioelectric modulation in tissue repair. *Nature Biomedical Engineering*.
+
+---
+
+## 🎨 VISUALIZACIÓN PROPUESTA (VIS-11)
+
+| Código  | Título                             | Capítulo | Prioridad | Descripción pedagógica                                                                                         | Prompt IA                                                                                                                        | Generada | Enlace |
+|---------|-------------------------------------|----------|-----------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-11  | Bioelectricidad joven vs envejecida | Cap. 11  | A         | Comparativa de célula con voltaje óptimo vs célula envejecida con canales disfuncionales y despolarización crónica | “Diagram: healthy cell membrane with normal ionic flow and potential vs aged cell with reduced voltage and ion channel dysfunction” | ⬜        | —      |
+
