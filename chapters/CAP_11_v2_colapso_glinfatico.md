@@ -1,4 +1,4 @@
-# Capítulo 8 – Colapso del sistema glinfático y linfático
+# Capítulo 11 – Colapso del sistema glinfático y linfático
 
 ---
 
