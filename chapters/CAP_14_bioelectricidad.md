@@ -1,4 +1,4 @@
-# Capítulo 11 – Alteración de la bioelectricidad: cuando las señales eléctricas se apagan
+# Capítulo 14 – Alteración de la bioelectricidad: cuando las señales eléctricas se apagan
 
 ---
 
