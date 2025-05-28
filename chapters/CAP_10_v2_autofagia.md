@@ -1,4 +1,4 @@
-# Capítulo 7 – El sistema de limpieza que falla (Disminución de la autofagia)
+# Capítulo 10 – El sistema de limpieza que falla (Disminución de la autofagia)
 
 ---
 
