@@ -1,4 +1,4 @@
-# Capítulo 10 – Caos en la comunicación intercelular
+# Capítulo 13 – Caos en la comunicación intercelular
 
 ---
 
