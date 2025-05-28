@@ -1,1 +1,78 @@
+# Capítulo 7 – Disminución de la autofagia: el sistema de limpieza que falla
+
+## 🧠 Introducción al problema
+
+Imagina que en tu casa nadie recogiera la basura durante semanas. Al principio, quizá no lo notas. Pero con el tiempo, el desorden se acumula, los olores aparecen, y el ambiente se vuelve tóxico. 
+
+Lo mismo ocurre dentro de tus células cuando falla su sistema de limpieza: **la autofagia**.
+
+Con la edad, la autofagia —ese proceso por el cual tus células reciclan y eliminan sus propios desechos— **se vuelve más lenta, menos eficiente y más selectiva**. Y cuando este sistema falla, **el envejecimiento se acelera desde dentro**.
+
+## 🧬 Explicación molecular accesible
+
+La palabra “autofagia” significa literalmente **“comerse a uno mismo”**. Pero no es destructiva: es regeneradora. Tus células identifican estructuras dañadas, las encapsulan en vesículas, y las degradan en lisosomas para **reutilizar sus componentes**.
+
+Con la edad:
+
+- Se acumulan proteínas mal plegadas, mitocondrias defectuosas y residuos tóxicos.
+- Disminuye la actividad de genes reguladores clave como **ATG5, LC3, Beclin-1** [1].
+- El lisosoma pierde eficiencia → se interrumpe el proceso.
+
+Consecuencia: **acumulación de “basura celular” que interfiere con la función normal de la célula**, promoviendo inflamación, disfunción mitocondrial y envejecimiento prematuro [2].
+
+> [ver VIS-07] Proceso de autofagia: detección, encapsulamiento, fusión con lisosoma y reciclaje.
+
+## 🔥 Hackea tus hábitos
+
+Activar la autofagia no requiere tecnología futurista. Solo **inteligencia fisiológica**. Los siguientes hábitos están validados para estimularla de forma natural:
+
+- **Ayuno intermitente** (mínimo 14–16 h): activa vías AMPK y desactiva mTOR [3].
+- **Ejercicio intenso**: especialmente HIIT y entrenamiento de fuerza [4].
+- **Restricción calórica puntual** sin desnutrición.
+- **Dormir bien**: gran parte del reciclaje celular ocurre en fases profundas.
+- **Café negro y té verde**: polifenoles como EGCG y cafeína modulan genes de autofagia [5].
+
+> No se trata de dejar de comer. Se trata de **darle a tu cuerpo espacio para repararse**.
+
+## 🧠 Demonios psicológicos
+
+- “Si no como cada tres horas, pierdo masa muscular.”
+- “Saltarse una comida es malo para el metabolismo.”
+- “Estoy demasiado cansado como para entrenar en ayunas.”
+
+> Demonio: **El Acumulador Celular**. Cree que más comida, más energía. Pero solo acumula residuos internos que su cuerpo no sabe reciclar.
+
+## 🚀 Biohack del futuro
+
+- **Miméticos de ayuno**: compuestos que imitan sus efectos sin necesidad de dejar de comer (ej. spermidina, rapamicina en microdosis) [6].
+- **Activadores farmacológicos de autofagia**: moduladores de mTOR y AMPK aún en estudio.
+- **Nutracéuticos inteligentes**: activan autofagia en tejidos específicos (ej. cerebro o músculo).
+- **Sensores no invasivos de autofagia activa** en saliva o piel (en fase experimental).
+
+> El futuro no es dejar de comer. Es aprender **cuándo dejar espacio para limpiar por dentro**.
+
+## 💬 Frases motivacionales
+
+- “Tu cuerpo sabe repararse. Solo necesita que no lo interrumpas.”
+- “No todo el progreso se siente como acción. A veces se activa en la pausa.”
+- “El silencio metabólico es el lenguaje de la regeneración.”
+
+## 🌀 Mantra de longevidad
+
+> *“Cuando me vacío con inteligencia, mi cuerpo se renueva.”*
+
+## 🔍 Referencias científicas
+
+[1] Mizushima, N. (2007). Autophagy: process and function. *Genes & Development*. https://doi.org/10.1101/gad.1599207  
+[2] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. https://doi.org/10.1016/j.cell.2011.05.028  
+[3] Longo, V. D., & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2016.06.001  
+[4] He, C., et al. (2012). Exercise-induced autophagy. *Nature*. https://doi.org/10.1038/nature10758  
+[5] Madeo, F., et al. (2018). Nutritional autophagy in humans. *Nature Reviews Molecular Cell Biology*. https://doi.org/10.1038/nrm.2017.107  
+[6] Zhang, Y., et al. (2019). Spermidine-induced autophagy. *Science*. https://doi.org/10.1126/science.aau6469
+
+## 🎨 VISUALIZACIÓN PROPUESTA (VIS-07)
+
+| Código  | Título                   | Capítulo | Prioridad | Descripción pedagógica                                                   | Prompt IA                                                                                                                                      | Generada | Enlace |
+|---------|---------------------------|----------|-----------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-07  | Fases del proceso de autofagia | Cap. 07  | A         | Diagrama del proceso: detección, encapsulado, fusión lisosomal, reciclaje | “Diagram of the autophagy process showing stages: detection of damaged components, autophagosome formation, fusion with lysosome, degradation” | ⬜        | —      |
 
