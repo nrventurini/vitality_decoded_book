@@ -1,101 +1,99 @@
-# Capítulo 10 – El sistema de limpieza que falla (Disminución de la autofagia)
-
----
+# Capítulo 10 – Reducción de la autofagia: el sistema de limpieza que falla
 
 ## 🧠 Introducción al problema
 
-Imagina una ciudad que no recoge su basura. Día tras día, los desechos se acumulan, obstruyen el tránsito, contaminan el aire y afectan la salud de sus habitantes. Eso mismo ocurre dentro de tu cuerpo cuando falla uno de los sistemas más elegantes que tiene la célula: la **autofagia**.
+Imagina una ciudad sin servicio de recolección de basura. Al principio, todo parece funcionar. Pero con los días, los residuos se acumulan en las calles, los malos olores invaden los hogares y la salud de los habitantes se deteriora. 
 
-La autofagia, literalmente “comerse a uno mismo”, es un proceso vital mediante el cual las células degradan y reciclan sus componentes dañados. Esta limpieza no solo evita el colapso interno, sino que activa mecanismos de rejuvenecimiento, reparación y adaptación al estrés. Con el envejecimiento, la autofagia disminuye, y con ella, la capacidad de tu organismo para mantenerse funcional.
+Eso mismo ocurre en tu cuerpo cuando disminuye la **autofagia**, el sistema celular que se encarga de **reciclar componentes dañados, limpiar residuos tóxicos y mantener el orden interno**. Con el tiempo, si no se reactiva, **la biología se satura… y envejece más rápido**.
 
 ---
 
 ## 🧬 Explicación molecular accesible
 
-La autofagia actúa como una brigada de mantenimiento celular. Detecta orgánulos dañados (como mitocondrias defectuosas), proteínas mal plegadas o patógenos intracelulares, los encierra en vesículas llamadas **autofagosomas**, y los fusiona con lisosomas que los degradan y reciclan.
+La autofagia (auto = uno mismo, fagia = comer) es un **mecanismo de reciclaje intracelular** fundamental para la longevidad. Las células encapsulan organelos defectuosos o proteínas dañadas en vesículas llamadas **autofagosomas**, que luego se fusionan con **lisosomas** para su degradación y reutilización.
 
-Este proceso es clave para:
-- Prevenir el estrés oxidativo.
-- Eliminar proteínas tóxicas (como beta-amiloide).
-- Mantener mitocondrias funcionales.
-- Adaptarse al ayuno y al ejercicio.
-- Proteger contra infecciones y cáncer.
+Con la edad:
 
-Con la edad, la autofagia se vuelve ineficiente:
-- Se reduce la formación de autofagosomas.
-- Disminuye la fusión con lisosomas.
-- Se altera la señalización de mTOR, AMPK y sirtuinas.
+- Se acumulan **proteínas mal plegadas**, mitocondrias disfuncionales, lípidos oxidados.
+- Se altera la expresión de genes reguladores clave: **ATG5, Beclin-1, LC3** [1].
+- El funcionamiento lisosomal disminuye y **la señalización de limpieza falla** [2].
 
-El resultado: acumulación de “basura” celular, inflamación crónica, pérdida de homeostasis y mayor susceptibilidad a enfermedades degenerativas.
+### 🔄 Vías reguladoras clave
 
-> [ver VIS-07] Esquema de una célula mostrando el proceso autofágico normal vs autofagia deficiente y sus consecuencias.
+- **AMPK**: sensor de baja energía, activa la autofagia.
+- **mTOR**: cuando está activado (por nutrientes), la inhibe [3].
+- **SIRT1**: activa autofagia mediante deacetilación de proteínas clave [4].
+
+> Cuando mTOR domina, acumulas. Cuando AMPK y SIRT1 dominan, limpias. 
+
+> [ver VIS-10A] Esquema del ciclo autofágico con sus fases principales.  
+> [ver VIS-10B] Comparativa visual entre autofagia funcional y disfuncional con la edad.
 
 ---
 
 ## 🔥 Hackea tus hábitos
 
-La buena noticia: la autofagia puede **reactivarse**. Estudios en humanos han demostrado que ciertos estímulos naturales y controlados inducen autofagia de forma saludable:
+Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo y ritmos**. Estos hábitos tienen evidencia clínica en humanos:
 
-- **Ayuno intermitente** (12–18 h): activa AMPK y reduce mTOR, favoreciendo autofagia.
-- **Ejercicio físico**: especialmente HIIT y entrenamiento en ayunas.
-- **Reducción de azúcares y comida procesada**: disminuye estrés metabólico y activa vías de reciclaje.
-- **Exposición a hormesis leve**: frío, calor, hipoxia controlada.
-- **Sueño profundo y sincronía circadiana**: esenciales para la fase nocturna de autofagia neuronal.
+- **Ayuno intermitente** (14–18 h): reduce mTOR, activa AMPK/SIRT1 [3].
+- **Ejercicio vigoroso**: especialmente HIIT y fuerza [5].
+- **Sauna y exposición al frío**: hormesis térmica estimula autofagia por shock proteico.
+- **Dormir profundamente**: favorece limpieza cerebral nocturna.
+- **Café negro, té verde y cúrcuma**: polifenoles como EGCG y curcumina promueven autofagia [6].
 
-> Cada acción que activa la autofagia es una limpieza silenciosa que rejuvenece tus células.
+> La longevidad no está solo en lo que consumes. Está también en lo que permites limpiar.
 
 ---
 
 ## 🧠 Demonios psicológicos
 
-- “Eso suena muy extremo, no pienso ayunar.”
-- “La palabra ‘autofagia’ suena a canibalismo.”
-- “¿No es mejor tomar suplementos que dejar de comer?”
+- “Si no como cada 3 horas, catabolizo músculo.”
+- “El ejercicio intenso me desgasta más de lo que me repara.”
+- “Saltarse comidas es de gente obsesiva.”
 
-> Demonio: **El Acumulador Bioquímico**. Cree que más comida, más productos y más suplementos equivalen a más salud. Pero a veces, vaciar es la mejor medicina.
+> Demonio: **El Acumulador Celular**. Confunde saciedad con salud. Pero acumula más de lo que limpia. Y eso, envejece.
 
 ---
 
 ## 🚀 Biohack del futuro
 
-Se están investigando fármacos “miméticos de la autofagia”, como la **rapamicina**, el **spermidine** y los inhibidores selectivos de mTORC1, que inducen autofagia sin necesidad de ayuno prolongado. Aunque prometedores, aún requieren validación para su uso preventivo en humanos sanos.
+- **Spermidina**: poliamina natural que activa autofagia y mejora longevidad en modelos animales [6].
+- **Rapamicina en microdosis**: inhibidor de mTOR que potencia autofagia (ensayos en humanos). 
+- **Nanopartículas autofágicas dirigidas**: diseñadas para activar limpieza selectiva en cerebro o músculo.
+- **Sensores en saliva/tejido que detectan autofagia activa** (fase preclínica).
 
-También emergen estrategias con **nanopartículas inteligentes** que activan rutas autofágicas solo en tejidos envejecidos o dañados, minimizando riesgos sistémicos.
-
-> La medicina del futuro no solo añadirá años, también eliminará residuos.
+> El futuro de la limpieza celular es **selectivo, sin ayuno y con control molecular.**
 
 ---
 
 ## 💬 Frases motivacionales
 
-- “No siempre necesitas más, a veces necesitas menos para sanar.”
-- “La limpieza celular es el detox que la ciencia sí respalda.”
-- “Tu cuerpo sabe reciclar: solo necesita el espacio para hacerlo.”
+- “Cuando eliges el momento de no nutrir, eliges cuándo reparar.”
+- “Tus células también necesitan reciclar para renacer.”
+- “No todo lo saludable suma. A veces, lo que resta… regenera.”
 
 ---
 
 ## 🌀 Mantra de longevidad
 
-> *“Cuanto menos acumulo, más limpio envejezco.”*
+> *“Me vacié de exceso. Y me volví funcional.”*
 
 ---
 
 ## 🔍 Referencias científicas
 
-[1] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*.
-
-[2] López-Otín, C., et al. (2013). The Hallmarks of Aging. *Cell*.
-
-[3] Madeo, F., et al. (2015). Caloric restriction mimetics: Towards a molecular definition. *Nature Reviews Drug Discovery*.
-
-[4] Alirezaei, M., et al. (2010). Short-term fasting induces profound neuronal autophagy. *Autophagy*.
-
-[5] Nakamura, S., et al. (2019). Exercise induces autophagy in peripheral tissues. *Nature Communications*.
+[1] Mizushima, N. (2007). Autophagy: process and function. *Genes & Development*. https://doi.org/10.1101/gad.1599207  
+[2] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. https://doi.org/10.1016/j.cell.2011.05.028  
+[3] Longo, V. D., & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2016.06.001  
+[4] Madeo, F., et al. (2015). Caloric restriction mimetics: towards a molecular definition. *Nature Reviews Drug Discovery*. https://doi.org/10.1038/nrd.2015.32  
+[5] He, C., et al. (2012). Exercise-induced autophagy. *Nature*. https://doi.org/10.1038/nature10758  
+[6] Zhang, Y., et al. (2019). Spermidine-induced autophagy. *Science*. https://doi.org/10.1126/science.aau6469  
 
 ---
 
-## 🎨 VISUALIZACIÓN PROPUESTA (VIS-07)
+## 🎨 VISUALIZACIÓN PROPUESTA
 
-| Código | Título                             | Capítulo | Prioridad | Descripción pedagógica                                                                             | Prompt IA                                                                                                       | Generada | Enlace |
-|--------|-------------------------------------|----------|-----------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|--------|
-| VIS-07 | Autofagia funcional vs fallida     | Cap. 7   | A         | Diagrama comparativo del proceso de autofagia celular: vesícula, fusión lisosomal y degradación vs fallo en el proceso | “Split diagram: autophagy process in healthy cell vs impaired cell – showing autophagosome formation, lysosomal fusion and accumulation of waste” | ⬜        | —      |
+| Código  | Título                                       | Capítulo | Prioridad | Descripción pedagógica                                                                                   | Prompt IA                                                                                                                                      | Generada | Enlace |
+|---------|-----------------------------------------------|----------|-----------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-10A | Fases del proceso de autofagia               | Cap. 10  | A         | Diagrama del proceso: detección, autofagosoma, fusión lisosomal, reciclaje                               | “Diagram of the autophagy process showing stages: detection of damaged components, autophagosome formation, fusion with lysosome, degradation” | ⬜        | —      |
+| VIS-10B | Comparación entre autofagia joven y envejecida | Cap. 10  | A         | Visual comparativo: célula con autofagia eficiente vs célula envejecida con residuos acumulados          | “Split-image showing a healthy cell with efficient autophagy and an aging cell filled with damaged organelles and aggregated proteins”         | ⬜        | —      |
