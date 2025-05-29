@@ -1,11 +1,11 @@
-# Capítulo 7 – Desgaste de telómeros: el reloj biológico en tu ADN
+# Capítulo 7 – Desgaste de telómeros  
+### El reloj biológico en tu ADN
 
 ## 🧠 Introducción al problema
 
 Cada vez que una célula se divide, su ADN se copia. Pero ese proceso no es perfecto. Como si cada fotocopia desgastara los bordes del papel, **los extremos de tus cromosomas también se van acortando**. Esos extremos se llaman **telómeros**, y funcionan como los “capuchones” protectores de tus genes.
 
-Con el tiempo, si se acortan demasiado, **la célula deja de funcionar, entra en senescencia o muere**. 
-
+Con el tiempo, si se acortan demasiado, **la célula deja de funcionar, entra en senescencia o muere**.  
 Y cuando muchas células cruzan ese umbral, el envejecimiento se vuelve visible… y sistémico.
 
 ## 🧬 Explicación molecular accesible
@@ -14,12 +14,12 @@ Los telómeros son **secuencias repetitivas de ADN no codificante** ubicadas al 
 
 La enzima que puede restaurarlos se llama **telomerasa**, pero:
 
-- Está activa principalmente en células madre y células cancerígenas [1].
+- Está activa principalmente en células madre y células cancerígenas [1].  
 - En la mayoría de nuestras células somáticas, está suprimida por razones evolutivas (evitar proliferación descontrolada).
 
 Cuando los telómeros son demasiado cortos:
 
-- Se activan señales de **daño en el ADN** (p53, ATM, ATR).
+- Se activan señales de **daño en el ADN** (p53, ATM, ATR).  
 - La célula entra en **senescencia o apoptosis** [2].
 
 > [ver VIS-07] Ilustración: acortamiento progresivo de telómeros en divisiones celulares, hasta punto crítico de senescencia.
@@ -28,54 +28,59 @@ Cuando los telómeros son demasiado cortos:
 
 Aunque no puedes detener la división celular, sí puedes **ralentizar el desgaste telomérico**:
 
-- **Dormir 7–9 h reales**: sueño insuficiente acelera el acortamiento [3].
-- **Ejercicio aeróbico moderado** (30 min/día): asociado a telómeros más largos [4].
-- **Reducción del estrés crónico**: el cortisol elevado daña el ADN y acorta telómeros [5].
-- **Dieta rica en antioxidantes naturales**: polifenoles, vitamina C/E, omega 3 [6].
+- **Dormir 7–9 h reales**: sueño insuficiente acelera el acortamiento [3].  
+- **Ejercicio aeróbico moderado** (30 min/día): asociado a telómeros más largos [4].  
+- **Reducción del estrés crónico**: el cortisol elevado daña el ADN y acorta telómeros [5].  
+- **Dieta rica en antioxidantes naturales**: polifenoles, vitamina C/E, omega 3 [6].  
 - **Evitar tabaco, obesidad, alcohol excesivo**.
 
 > No se trata de evitar que el reloj avance, sino de **retrasar el sonido de su alarma**.
 
 ## 🧠 Demonios psicológicos
 
-- “Mi genética ya está escrita, no puedo cambiarla.”
-- “Todo envejece igual, hagas lo que hagas.”
+- “Mi genética ya está escrita, no puedo cambiarla.”  
+- “Todo envejece igual, hagas lo que hagas.”  
 - “Cuidarse tanto no vale la pena si total vamos a morir.”
 
 > Demonio: **El Reloj Resignado**. Cree que su destino está sellado por su biología. Pero ignora que los genes son **el instrumento, no la partitura**.
 
 ## 🚀 Biohack del futuro
 
-- **Activadores de telomerasa**: como TA-65 (extraído de Astragalus) aún en evaluación clínica [7].
-- **Terapia génica para reactivar TERT** (gen de la telomerasa) en tejidos específicos [8].
-- **Relojes epigenéticos teloméricos**: algoritmos de IA que miden edad biológica según longitud y metilación del ADN.
-- **Análisis de sangre de nueva generación**: permiten monitorear longitud telomérica con precisión y bajo costo.
+- **Activadores de telomerasa**: como **TA-65** (extraído de *Astragalus membranaceus*), aún bajo evaluación clínica. Algunos estudios sugieren efectos modestos en humanos, pero su eficacia a largo plazo requiere más evidencia [7].  
+- **Terapia génica con TERT**: en modelos animales, se ha logrado reactivar telomerasa y prolongar la vida sin aumentar riesgo de cáncer [8].  
+- **Relojes epigenéticos teloméricos**: IA que combinan longitud telomérica y metilación para estimar la edad biológica.  
+- **Análisis de sangre de nueva generación**: permiten medir la longitud de los telómeros de forma rápida, precisa y accesible.
 
 > No se trata de vivir para siempre. Se trata de **no envejecer antes de tiempo**.
 
 ## 💬 Frases motivacionales
 
-- “Tu edad cronológica es una fecha. Tu edad biológica, una decisión.”
-- “Cuidar tus telómeros es cuidar la arquitectura de tu longevidad.”
+- “Tu edad cronológica es una fecha. Tu edad biológica, una decisión.”  
+- “Cuidar tus telómeros es cuidar la arquitectura de tu longevidad.”  
 - “No se trata de retroceder el tiempo. Se trata de usarlo con inteligencia celular.”
 
 ## 🌀 Mantra de longevidad
 
 > *“Mi código no está sellado. Cada decisión lo escribe de nuevo.”*
 
+---
+
 ## 🔍 Referencias científicas
 
 [1] Blackburn, E. H., & Epel, E. S. (2017). The telomere effect. *Science*. https://doi.org/10.1126/science.aal2298  
 [2] Sahin, E., & DePinho, R. A. (2010). Linking telomeres to aging and cancer. *Cell*. https://doi.org/10.1016/j.cell.2010.06.032  
 [3] Jackowska, M., et al. (2012). Sleep and telomere length. *Psychoneuroendocrinology*. https://doi.org/10.1016/j.psyneuen.2011.10.009  
-[4] Ludlow, A. T., et al. (2008). Physical activity and telomere length. *Medicine & Science in Sports & Exercise*. https://doi.org/10.1249/MSS.0b013e31817379c0  
+[4] Ludlow, A. T., et al. (2008). Physical activity and telomere length. *Med Sci Sports Exerc*. https://doi.org/10.1249/MSS.0b013e31817379c0  
 [5] Epel, E. S., et al. (2004). Accelerated telomere shortening in response to life stress. *PNAS*. https://doi.org/10.1073/pnas.0407162101  
-[6] Boccardi, V., & Herbig, U. (2012). Telomerase activation: dietary and nutraceutical approaches. *Current Pharmaceutical Design*. https://doi.org/10.2174/138161212800167974  
-[7] Harley, C. B., et al. (2011). A natural product telomerase activator. *Rejuvenation Research*. https://doi.org/10.1089/rej.2011.1195  
-[8] de Jesus, B. B., et al. (2012). Telomerase gene therapy in adult and old mice. *EMBO Molecular Medicine*. https://doi.org/10.1002/emmm.201200245  
+[6] Boccardi, V., & Herbig, U. (2012). Telomerase activation: dietary and nutraceutical approaches. *Curr Pharm Des*. https://doi.org/10.2174/138161212800167974  
+[7] Harley, C. B., et al. (2011). A natural product telomerase activator. *Rejuvenation Res*. https://doi.org/10.1089/rej.2011.1195  
+[8] de Jesus, B. B., et al. (2012). Telomerase gene therapy in adult and old mice. *EMBO Mol Med*. https://doi.org/10.1002/emmm.201200245  
+
+---
 
 ## 🎨 VISUALIZACIÓN PROPUESTA (VIS-07)
 
 | Código  | Título                           | Capítulo | Prioridad | Descripción pedagógica                                                                 | Prompt IA                                                                                                                              | Generada | Enlace |
 |---------|-----------------------------------|----------|-----------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
 | VIS-07  | Acortamiento telomérico progresivo | Cap. 07  | A         | Esquema del acortamiento de telómeros con división celular y punto crítico de senescencia | “Diagram showing progressive telomere shortening during cell divisions, leading to senescence threshold and DNA damage signaling” | ⬜        | —      |
+
