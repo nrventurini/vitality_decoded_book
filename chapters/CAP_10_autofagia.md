@@ -39,7 +39,7 @@ Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo
 - **Ejercicio vigoroso (fuerza y HIIT)**: activa vías de autofagia en músculo [5].  
 - **Exposición térmica** (sauna y frío): induce expresión de chaperonas y limpieza celular [6].  
 - **Sueño profundo y regular**: favorece autofagia neuronal [7].  
-- **Compuestos bioactivos (café negro, EGCG, curcumina)**: estimulan autofagia en humanos o con fuerte respaldo preclínico [8].
+- **Compuestos bioactivos (café negro, EGCG del té verde, curcumina de la cúrcuma)**: polifenoles naturales que modulan rutas celulares como AMPK y SIRT1, estimulando la autofagia en humanos o con fuerte respaldo preclínico [8].
 
 > La longevidad no está solo en lo que consumes. Está también en lo que permites limpiar.
 
