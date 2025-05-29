@@ -1,83 +1,81 @@
-# Capítulo 6 – Inestabilidad genómica y mutaciones
-
----
+# Capítulo 6 – Inestabilidad genómica y mutaciones  
+### Cuando tu código maestro empieza a fracturarse
 
 ## 🧠 Introducción al problema
 
-Tu ADN es el libro maestro de tu existencia: cada célula guarda una copia, y de su fidelidad depende tu salud. Sin embargo, a lo largo de la vida, ese libro sufre daños constantes. Radiación, errores de replicación, inflamación crónica, tóxicos ambientales y procesos metabólicos generan mutaciones, roturas y distorsiones en el código genético. 
+Tu ADN es el libro maestro de tu existencia: cada célula guarda una copia, y de su fidelidad depende tu salud.  
+Sin embargo, a lo largo de la vida, ese libro sufre daños constantes. Radiación, errores de replicación, inflamación crónica, tóxicos ambientales y procesos metabólicos generan mutaciones, roturas y distorsiones en el código genético.
 
-Cuando los mecanismos de vigilancia fallan, el resultado es una **inestabilidad genómica** que pone en jaque la integridad celular, la regeneración y la prevención del cáncer. Lo que era un manual de instrucciones preciso se convierte en una novela caótica.
-
----
+Cuando los mecanismos de vigilancia fallan, el resultado es una **inestabilidad genómica** que pone en jaque la integridad celular, la regeneración y la prevención del cáncer.  
+Lo que era un manual de instrucciones preciso se convierte en una novela caótica [1].
 
 ## 🧬 Explicación molecular accesible
 
-La **inestabilidad genómica** es la tendencia de las células a acumular mutaciones con el tiempo. Esto afecta tanto al ADN nuclear como al mitocondrial.
+La **inestabilidad genómica** es la tendencia de las células a acumular mutaciones con el tiempo.  
+Esto afecta tanto al ADN nuclear como al mitocondrial.
 
 Los principales tipos de daño incluyen:
-- Roturas de doble hebra.
-- Mutaciones puntuales.
-- Translocaciones cromosómicas.
-- Inserciones, deleciones y fusiones genéticas.
+
+- Roturas de doble hebra  
+- Mutaciones puntuales  
+- Translocaciones cromosómicas  
+- Inserciones, deleciones y fusiones genéticas  
 
 Las células jóvenes cuentan con un ejército de mecanismos de reparación:
-- NHEJ y HR para roturas de doble hebra.
-- Reparación por escisión de bases o nucleótidos.
-- Proteínas centinela como p53, ATM, BRCA1/2.
 
-Pero con el tiempo, estos mecanismos se desgastan. El estrés oxidativo y la replicación celular acelerada (por inflamación, sobrecarga metabólica o edad) aumentan los errores. El resultado es un genoma fracturado y desordenado.
+- NHEJ (unión de extremos no homólogos)  
+- HR (recombinación homóloga)  
+- Reparación por escisión de bases o nucleótidos  
+- Proteínas centinela como p53, ATM, BRCA1/2  
+
+Pero con el tiempo, estos mecanismos se desgastan. El estrés oxidativo y la replicación celular acelerada (por inflamación, sobrecarga metabólica o edad) aumentan los errores [2][3].
 
 > [ver VIS-06] Comparación visual entre un núcleo celular con ADN intacto vs un núcleo con múltiples roturas y mutaciones señaladas.
 
 Las consecuencias son profundas:
-- Senescencia celular.
-- Disfunción de células madre.
-- Riesgo aumentado de cáncer.
-- Alteraciones en el desarrollo embrionario y la fertilidad.
 
----
+- Senescencia celular  
+- Disfunción de células madre  
+- Riesgo aumentado de cáncer  
+- Alteraciones en fertilidad y regeneración tisular  
 
 ## 🔥 Hackea tus hábitos
 
 Aunque no podemos evitar todos los daños al ADN, sí podemos **reducir su frecuencia** y **fortalecer su reparación natural**:
 
-- **Dormir profundamente**: activa genes de reparación nocturna y reduce estrés oxidativo.
-- **Dieta rica en compuestos protectores del ADN**: crucíferas (sulforafano), polifenoles (curcumina, EGCG), vitaminas del grupo B.
-- **Evitar sobrecarga tóxica**: pesticidas, humo, contaminantes industriales.
-- **Ejercicio moderado**: activa rutas antioxidantes y mejora la función mitocondrial.
-- **Reducción del estrés crónico**: ya que el cortisol elevado puede inducir daño en células madre y telómeros.
+- **Dormir profundamente (7–8h)**: activa genes de reparación nocturna como XPA y RAD51 [4].  
+- **Dieta rica en protectores del ADN**: crucíferas (sulforafano), polifenoles (curcumina, EGCG), vitaminas del grupo B (ácido fólico, B12) [5].  
+- **Ejercicio físico moderado**: activa vías de defensa antioxidante y reduce daño en linfocitos [6].  
+- **Reducción del estrés crónico**: niveles elevados de cortisol se asocian con mayor daño en telómeros y menor expresión de genes reparadores [7].  
+- **Evitar sobrecarga tóxica**: pesticidas, tabaco, metales pesados y ftalatos han sido vinculados con daño genético acumulativo [8].
 
-> Proteger tu genoma es proteger tu futuro regenerativo.
-
----
+> Proteger tu genoma es proteger tu capacidad de regenerar.
 
 ## 🧠 Demonios psicológicos
 
-- “El daño ya está hecho, no puedo hacer nada.”
-- “No tengo cáncer, así que mi ADN está bien.”
+- “El daño ya está hecho, no puedo hacer nada.”  
+- “No tengo cáncer, así que mi ADN está bien.”  
 - “Eso es genético, no tiene arreglo.”
 
 > Demonio: **El Genopasivo**. Te hace creer que no tienes control sobre tu genética, cuando en realidad, tu estilo de vida modifica su estabilidad.
 
----
-
 ## 🚀 Biohack del futuro
 
-La **edición génica de precisión**, con herramientas como CRISPR-Cas9, abre la puerta a corregir mutaciones directamente en el genoma. Aún estamos lejos de aplicar esto a gran escala de forma segura en humanos, pero los ensayos clínicos para enfermedades monogénicas y cánceres hematológicos están en marcha.
+La **edición génica de precisión**, con herramientas como **CRISPR-Cas9** y **base editing**, permite corregir mutaciones en células específicas.  
+Ya se han aprobado terapias génicas para enfermedades como beta-talasemia y amaurosis congénita, y los primeros ensayos en cáncer hematológico muestran resultados prometedores [9].
 
-Además, se están explorando terapias con pequeñas moléculas que restauran proteínas reparadoras (como p53), o que refuerzan la reparación por recombinación homóloga.
+Se están desarrollando también:
 
-> La estabilidad genómica será un nuevo marcador de longevidad clínica en el futuro.
+- **Inhibidores de PARP**: que ayudan a bloquear rutas defectuosas y potenciar la reparación eficiente.  
+- **Moléculas que restauran p53 o ATM**: clave para reiniciar el sistema de control de calidad genómico.
 
----
+> En un futuro no muy lejano, la estabilidad genómica será parte de tu historial clínico… y de tus decisiones cotidianas.
 
 ## 💬 Frases motivacionales
 
-- “Tu ADN no necesita perfección, necesita protección.”
-- “La longevidad empieza con cada decisión que evita una mutación más.”
-- “No puedes reescribir tu código original, pero puedes mantenerlo legible.”
-
----
+- “Tu ADN no necesita perfección. Necesita protección.”  
+- “La longevidad comienza con cada decisión que evita una mutación más.”  
+- “No puedes reescribir tu código original, pero sí puedes mantenerlo legible.”
 
 ## 🌀 Mantra de longevidad
 
@@ -87,15 +85,15 @@ Además, se están explorando terapias con pequeñas moléculas que restauran pr
 
 ## 🔍 Referencias científicas
 
-[1] Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annual Review of Physiology*.
-
-[2] Hoeijmakers, J. H. (2009). DNA damage, aging, and cancer. *New England Journal of Medicine*.
-
-[3] Gorbunova, V., et al. (2007). Changes in DNA repair during aging. *Nucleic Acids Research*.
-
-[4] López-Otín, C., et al. (2013). The Hallmarks of Aging. *Cell*.
-
-[5] Li, H., & Durbin, R. (2010). Fast and accurate long-read alignment with Burrows-Wheeler transform. *Bioinformatics*.
+[1] Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annu Rev Physiol*. https://doi.org/10.1146/annurev-physiol-030212-183715  
+[2] Hoeijmakers, J. H. (2009). DNA damage, aging, and cancer. *N Engl J Med*. https://doi.org/10.1056/NEJMra0804615  
+[3] Gorbunova, V., et al. (2007). Changes in DNA repair during aging. *Nucleic Acids Res*. https://doi.org/10.1093/nar/gkm756  
+[4] Cirelli, C., & Tononi, G. (2008). Is sleep essential? *PLoS Biol*. https://doi.org/10.1371/journal.pbio.0060216  
+[5] Ferguson, L. R. (2010). Role of plant polyphenols in genomic stability. *Mutation Research*. https://doi.org/10.1016/j.mrfmmm.2010.02.003  
+[6] Radak, Z., et al. (2008). Exercise and oxidative DNA damage. *Free Radical Biology and Medicine*. https://doi.org/10.1016/j.freeradbiomed.2008.04.005  
+[7] Epel, E. S., et al. (2004). Accelerated telomere shortening in response to life stress. *PNAS*. https://doi.org/10.1073/pnas.0407162101  
+[8] Valavanidis, A., et al. (2013). Airborne particulate matter and oxidative stress. *Environ Sci Pollut Res*. https://doi.org/10.1007/s11356-013-1847-x  
+[9] Frangoul, H., et al. (2021). CRISPR-Cas9 gene editing for sickle cell disease. *N Engl J Med*. https://doi.org/10.1056/NEJMoa2031054  
 
 ---
 
