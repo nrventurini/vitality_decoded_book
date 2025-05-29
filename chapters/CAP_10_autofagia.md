@@ -35,11 +35,11 @@ Con la edad:
 
 Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo y ritmos**. Estos hábitos tienen evidencia clínica en humanos:
 
-- **Ayuno intermitente** (14–18 h): reduce mTOR, activa AMPK/SIRT1 [3].  
-- **Ejercicio vigoroso**: especialmente HIIT y fuerza, que inducen estrés energético positivo [5].  
-- **Sauna y exposición al frío**: hormesis térmica que estimula autofagia por shock proteico.  
-- **Dormir profundamente**: favorece la limpieza cerebral nocturna.  
-- **Café negro, té verde y cúrcuma**: polifenoles como EGCG y curcumina promueven autofagia [6].
+- **Ayuno intermitente (14–18 h)**: reduce mTOR, activa AMPK/SIRT1 [3].  
+- **Ejercicio vigoroso (fuerza y HIIT)**: activa vías de autofagia en músculo [5].  
+- **Exposición térmica** (sauna y frío): induce expresión de chaperonas y limpieza celular [6].  
+- **Sueño profundo y regular**: favorece autofagia neuronal [7].  
+- **Compuestos bioactivos (café negro, EGCG, curcumina)**: estimulan autofagia en humanos o con fuerte respaldo preclínico [8].
 
 > La longevidad no está solo en lo que consumes. Está también en lo que permites limpiar.
 
@@ -57,12 +57,12 @@ Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo
 
 ## 🚀 Biohack del futuro
 
-- **Spermidina**: poliamina natural que activa autofagia y mejora longevidad en modelos animales [6].  
-- **Rapamicina en microdosis**: inhibidor de mTOR que potencia autofagia (ensayos en humanos en marcha).  
-- **Nanopartículas autofágicas dirigidas**: diseñadas para activar limpieza selectiva en cerebro o músculo.  
-- **Sensores en saliva/tejido** que detectan autofagia activa (fase preclínica).
+- **Spermidina**: poliamina que activa autofagia. Ensayos en humanos muestran mejoras en marcadores de envejecimiento [8].  
+- **Rapamicina en microdosis**: inhibidor de mTOR. Ensayos en curso en longevidad y salud mitocondrial [9].  
+- **Nanopartículas autofágicas dirigidas**: fase preclínica. Buscan activar autofagia localmente en cerebro o músculo.  
+- **Sensores no invasivos de autofagia activa**: en desarrollo, mediante saliva o sangre periférica.
 
-> El futuro de la limpieza celular es **selectivo, sin ayuno y con control molecular.**
+> El futuro de la limpieza celular es **selectivo, programado y supervisado por biomarcadores reales**.
 
 ---
 
@@ -85,13 +85,16 @@ Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo
 [1] Mizushima, N. (2007). Autophagy: process and function. *Genes & Development*. https://doi.org/10.1101/gad.1599207  
 [2] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. https://doi.org/10.1016/j.cell.2011.05.028  
 [3] Longo, V. D., & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2016.06.001  
-[4] Madeo, F., et al. (2015). Caloric restriction mimetics: towards a molecular definition. *Nature Reviews Drug Discovery*. https://doi.org/10.1038/nrd.2015.32  
-[5] He, C., et al. (2012). Exercise-induced autophagy. *Nature*. https://doi.org/10.1038/nature10758  
-[6] Zhang, Y., et al. (2019). Spermidine-induced autophagy. *Science*. https://doi.org/10.1126/science.aau6469  
+[4] Madeo, F., et al. (2015). Caloric restriction mimetics. *Nat Rev Drug Discov*. https://doi.org/10.1038/nrd.2015.32  
+[5] He, C., et al. (2012). Exercise-induced autophagy in skeletal muscle. *Nature*. https://doi.org/10.1038/nature10758  
+[6] Henderson, G. C., et al. (2018). Heat stress activates autophagy and reduces oxidative stress. *J Appl Physiol*. https://doi.org/10.1152/japplphysiol.00501.2018  
+[7] Xie, L., et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*. https://doi.org/10.1126/science.1241224  
+[8] Eisenberg, T., et al. (2016). Cardioprotection and lifespan extension by the natural polyamine spermidine. *Nat Med*. https://doi.org/10.1038/nm.4222  
+[9] Mannick, J. B., et al. (2014). mTOR inhibition improves immune function in the elderly. *Science Translational Medicine*. https://doi.org/10.1126/scitranslmed.3009892  
 
 ---
 
-## 🎨 VISUALIZACIÓN PROPUESTA
+## 🎨 VISUALIZACIÓN PROPUESTA (VIS-10A y VIS-10B)
 
 | Código   | Título                                       | Capítulo | Prioridad | Descripción pedagógica                                                                                   | Prompt IA                                                                                                                                       | Generada | Enlace |
 |----------|-----------------------------------------------|----------|-----------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
