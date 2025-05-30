@@ -21,13 +21,21 @@
 
 ---
 
+## 📘 NOTA EDITORIAL DE RECONOCIMIENTO CIENTÍFICO
+
+> *Este libro no sería posible sin los hallazgos pioneros de científicos como Carlos López-Otín, María Blasco, Shin’ya Yamanaka, Steve Horvath o Guido Kroemer.  
+Sus contribuciones han cambiado nuestra comprensión del envejecimiento humano y han permitido que hoy podamos diseñar estrategias prácticas y validadas para comprimir la morbilidad y extender la vitalidad.*  
+> *Este libro es, en parte, un homenaje riguroso y accesible a su trabajo.*
+
+---
+
 ## 📘 ÍNDICE GENERAL DEL LIBRO
 
 1. Introducción  
 2. Parte I – *Entiende el envejecimiento* (17 capítulos)  
 3. Parte II – *Domina los pilares de la juventud* (10 capítulos)  
 4. Parte III – *Hackea tu mente* (2 capítulos)  
-5. Conclusiones  
+5. Conclusión  
 6. Secciones finales:
    - Clasificación de hábitos y biohacks
    - Glosario técnico-popular
@@ -37,6 +45,22 @@
    - Referencias
    - Sobre el autor
    - Mensaje editorial final
+
+---
+
+## ✨ INTRODUCCIÓN A CADA PARTE
+
+### 🧬 Parte I – *Entiende el envejecimiento*
+
+Cada capítulo descifra uno de los 17 mecanismos biológicos que drenan tu juventud. Se explican en lenguaje claro pero científicamente riguroso, con visuales, hábitos validados y tecnologías emergentes. Aquí el lector no solo aprende, sino que despierta.
+
+### 🌿 Parte II – *Domina los pilares de la juventud*
+
+Tras comprender los saboteadores, esta parte entrena al lector en los hábitos que activan los sistemas regenerativos. Cada capítulo es una guía estructurada con niveles prácticos, evidencias humanas, autoevaluación y recomendaciones tecnológicas claras.
+
+### 🧠 Parte III – *Hackea tu mente*
+
+La transformación real empieza cuando el lector descubre qué lo sabotea desde dentro. Esta parte es emocional y poderosa. Cada capítulo aborda un bloqueo psicológico común y lo desactiva con ciencia del comportamiento, metáforas y motivación sostenible.
 
 ---
 
@@ -60,7 +84,7 @@
 | 13 | Comunicación intercelular | I | Caos en el lenguaje celular |
 | 14 | Bioelectricidad | I | La energía sutil de la longevidad |
 | 15 | Disbiosis del microbioma | I | Ecosistema interno dañado (incluye virioma) |
-| 16 | Rigidez extracelular | I | Tu arquitectura interna pierde flexibilidad |
+| 16 | Rigidez extracelular y fractalidad | I | Tu arquitectura interna pierde flexibilidad y complejidad |
 | 17 | Inflammaging | I | La inflamación silenciosa que nunca duerme |
 | 18 | Nutrición | II | Alimenta tu longevidad |
 | 19 | Movimiento | II | El cuerpo que se renueva en movimiento |
@@ -80,7 +104,7 @@
 
 ## 🧠 RESUMEN CLAVE POR CAPÍTULO
 
-Ver archivo `resumen_capitulos.md` 
+Ver archivo `resumen_capitulos.md` (actualizado).
 
 ---
 
