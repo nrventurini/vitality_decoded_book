@@ -80,6 +80,16 @@ Filtra con criterio el impacto de tendencias biohacker (ej. Bryan Johnson, Liz P
 8. 💬 3 frases motivacionales  
 9. 🌀 Mantra de longevidad
 
+## 🧩 CARACTERÍSTICAS CLAVE DEL APARTADO “🧨 Desmontando mitos”
+
+| Requisito                     | Descripción                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| 🎯 **Corto e impactante**     | 1 a 2 mitos por capítulo, sin diluir el mensaje                            |
+| 📊 **Científicamente blindado** | Solo se incluyen si hay evidencia sólida en humanos                         |
+| 🎭 **Contradictorio pero creíble** | Mitos que sorprendan sin parecer ridículos                                |
+| 📚 **Incluye referencia explícita** | Siempre referenciado como [#] en el texto                                 |
+
+
 ---
 
 ### 🧠 Parte 3 – **Hackea tu mente**
