@@ -90,18 +90,18 @@ Algoritmos que combinan datos de tu ADN, epigenética, CGM y microbioma para dis
 
 ## 🔍 Referencias científicas
 
-| # Cita | Capítulo               | Fuente                         | Tipo de evidencia             | DOI / URL                                     | Resumen                                   |
-| ------ | ---------------------- | ------------------------------ | ----------------------------- | --------------------------------------------- | ----------------------------------------- |
-| 1      | Cap. 18                | Wilkinson MJ et al.            | Estudio clínico               | 10.1016/j.cmet.2020.01.004                    | Efectos del ayuno intermitente en humanos |
-| 2      | Madeo F et al.         | Revisión                       | 10.1016/j.cell.2014.02.010    | Inhibición de mTOR y autofagia                |                                           |
-| 3      | Schwingshackl L et al. | Meta-análisis                  | 10.1093/ajcn/nqx010           | Dieta, inflamación y riesgo cardiovascular    |                                           |
-| 4      | Jakubowicz D et al.    | Estudio circadiano             | 10.1002/oby.20426             | Crononutrición y metabolismo                  |                                           |
-| 5      | Robinson E et al.      | Estudio conductual             | 10.1016/j.appet.2013.02.013   | Mindful eating y reducción calórica           |                                           |
-| 6      | Sonnenburg JL et al.   | Revisión microbioma            | 10.1038/nature17677           | Prebióticos, SCFAs y longevidad intestinal    |                                           |
-| 7      | Fulgoni VL et al.      | Evaluación dietética           | 10.3390/nu12082323            | Alimentos densos en micronutrientes           |                                           |
-| 8      | Simopoulos AP          | Revisión                       | 10.1016/S0753-3322(02)00253-6 | Relación omega-6/omega-3 y salud              |                                           |
-| 9      | Shukla AP et al.       | Estudio secuencia de alimentos | 10.2337/dc14-2765             | Impacto de secuencia de alimentos en glucemia |                                           |
-| 10     | Berry SE et al.        | PREDICT                        | 10.1016/j.cell.2020.06.017    | Respuesta individual a alimentos              |                                           |
-| 11     | Hall H et al.          | Estudio CGM                    | 10.1093/ajcn/nqaa258          | CGM y personalización nutricional             |                                           |
+| # Cita | Capítulo  | Fuente                         | Tipo de evidencia             | DOI / URL                                     | Resumen                                                   |
+|--------|-----------|--------------------------------|-------------------------------|------------------------------------------------|------------------------------------------------------------|
+| 1      | Cap. 18   | Wilkinson MJ et al.            | Estudio clínico               | 10.1016/j.cmet.2020.01.004                    | Efectos del ayuno intermitente en humanos                  |
+| 2      | Cap. 18   | Madeo F et al.                 | Revisión                      | 10.1016/j.cell.2014.02.010                    | Inhibición de mTOR y activación de autofagia              |
+| 3      | Cap. 18   | Schwingshackl L et al.         | Meta-análisis                 | 10.1093/ajcn/nqx010                           | Dieta antiinflamatoria y reducción del riesgo cardiovascular |
+| 4      | Cap. 18   | Jakubowicz D et al.            | Estudio circadiano            | 10.1002/oby.20426                             | Crononutrición: efectos sobre metabolismo y obesidad      |
+| 5      | Cap. 18   | Robinson E et al.              | Estudio conductual            | 10.1016/j.appet.2013.02.013                   | Mindful eating reduce la ingesta calórica global          |
+| 6      | Cap. 18   | Sonnenburg JL et al.           | Revisión microbioma           | 10.1038/nature17677                           | Prebióticos y producción de SCFAs en el intestino          |
+| 7      | Cap. 18   | Fulgoni VL et al.              | Evaluación dietética          | 10.3390/nu12082323                            | Alimentos densos en micronutrientes y prevención funcional |
+| 8      | Cap. 18   | Simopoulos AP                  | Revisión                      | 10.1016/S0753-3322(02)00253-6                 | Relación omega-6/omega-3 y modulación inflamatoria        |
+| 9      | Cap. 18   | Shukla AP et al.               | Estudio secuencia de alimentos| 10.2337/dc14-2765                             | Secuencia de ingesta y control glucémico                  |
+| 10     | Cap. 18   | Berry SE et al.                | Estudio clínico (PREDICT)     | 10.1016/j.cell.2020.06.017                    | Variabilidad interindividual en respuesta a alimentos      |
+| 11     | Cap. 18   | Hall H et al.                  | Estudio con CGM               | 10.1093/ajcn/nqaa258                          | Monitorización de glucosa y nutrición personalizada        |
 
 ---
