@@ -33,9 +33,13 @@ Con la edad, la actividad de AMPK y SIRT1 disminuye, mientras que mTOR se vuelve
 ### Hackea tus hábitos: recicla tu juventud desde dentro
 
 ✅ **Aplica ayunos intermitentes controlados** (14–18 horas): activa AMPK y SIRT1, desencadenando autofagia \[4].
+
 ✅ **Entrena en ayunas (si estás adaptado)**: acelera la limpieza celular en músculos y órganos clave \[5].
+
 ✅ **Reduce el consumo de proteína excesiva**: la leucina activa mTOR e inhibe la autofagia si se consume en exceso \[6].
+
 ✅ **Usa compuestos naturales como resveratrol, spermidina o quercetina**: han mostrado efectos pro-autofágicos en modelos animales y celulares \[7].
+
 ✅ **Duerme profundamente**: la autofagia se regula circadianamente y mejora durante el sueño reparador.
 
 ### Demonios psicológicos: el "me muero si no como cada 3 horas"
@@ -80,11 +84,17 @@ Pero la biología dice otra cosa: **el ayuno intermitente no es una moda peligro
 ### Referencias
 
 \[1] Mizushima, N., & Komatsu, M. (2011). Autophagy: renovation of cells and tissues. *Cell*. [https://doi.org/10.1016/j.cell.2011.10.026](https://doi.org/10.1016/j.cell.2011.10.026)
+
 \[2] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. [https://doi.org/10.1016/j.cell.2011.01.028](https://doi.org/10.1016/j.cell.2011.01.028)
+
 \[3] Madeo, F., et al. (2015). Caloric restriction mimetics: towards a molecular definition. *Nat Rev Drug Discov*. [https://doi.org/10.1038/nrd4699](https://doi.org/10.1038/nrd4699)
+
 \[4] de Cabo, R., & Mattson, M. P. (2019). Effects of intermittent fasting on health, aging, and disease. *New England Journal of Medicine*. [https://doi.org/10.1056/NEJMra1905136](https://doi.org/10.1056/NEJMra1905136)
+
 \[5] Longo, V. D., & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding in healthy lifespan. *Cell Metab*. [https://doi.org/10.1016/j.cmet.2016.06.001](https://doi.org/10.1016/j.cmet.2016.06.001)
+
 \[6] Fontana, L., & Partridge, L. (2015). Promoting health and longevity through diet: from model organisms to humans. *Cell*. [https://doi.org/10.1016/j.cell.2015.02.020](https://doi.org/10.1016/j.cell.2015.02.020)
+
 \[7] Eisenberg, T., et al. (2009). Induction of autophagy by spermidine promotes longevity. *Nat Cell Biol*. [https://doi.org/10.1038/ncb1903](https://doi.org/10.1038/ncb1903)
 \[8] Madeo, F., & Kroemer, G. (2018). Spermidine: a physiological autophagy inducer acting as an anti-aging vitamin. *Cell Death Differ*. [https://doi.org/10.1038/s41418-017-0022-8](https://doi.org/10.1038/s41418-017-0022-8)
 \[9] Harrison, D. E., et al. (2009). Rapamycin fed late in life extends lifespan in genetically heterogeneous mice. *Nature*. [https://doi.org/10.1038/nature08221](https://doi.org/10.1038/nature08221)
