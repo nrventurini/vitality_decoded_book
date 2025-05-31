@@ -90,18 +90,18 @@ Algoritmos que combinan datos de tu ADN, epigenética, CGM y microbioma para dis
 
 ## 🔍 Referencias científicas
 
-| # Cita | Capítulo  | Fuente                         | Tipo de evidencia             | DOI / URL                                     | Resumen                                                   |
-|--------|-----------|--------------------------------|-------------------------------|------------------------------------------------|------------------------------------------------------------|
-| 1      | Cap. 18   | Wilkinson MJ et al.            | Estudio clínico               | 10.1016/j.cmet.2020.01.004                    | Efectos del ayuno intermitente en humanos                  |
-| 2      | Cap. 18   | Madeo F et al.                 | Revisión                      | 10.1016/j.cell.2014.02.010                    | Inhibición de mTOR y activación de autofagia              |
-| 3      | Cap. 18   | Schwingshackl L et al.         | Meta-análisis                 | 10.1093/ajcn/nqx010                           | Dieta antiinflamatoria y reducción del riesgo cardiovascular |
-| 4      | Cap. 18   | Jakubowicz D et al.            | Estudio circadiano            | 10.1002/oby.20426                             | Crononutrición: efectos sobre metabolismo y obesidad      |
-| 5      | Cap. 18   | Robinson E et al.              | Estudio conductual            | 10.1016/j.appet.2013.02.013                   | Mindful eating reduce la ingesta calórica global          |
-| 6      | Cap. 18   | Sonnenburg JL et al.           | Revisión microbioma           | 10.1038/nature17677                           | Prebióticos y producción de SCFAs en el intestino          |
-| 7      | Cap. 18   | Fulgoni VL et al.              | Evaluación dietética          | 10.3390/nu12082323                            | Alimentos densos en micronutrientes y prevención funcional |
-| 8      | Cap. 18   | Simopoulos AP                  | Revisión                      | 10.1016/S0753-3322(02)00253-6                 | Relación omega-6/omega-3 y modulación inflamatoria        |
-| 9      | Cap. 18   | Shukla AP et al.               | Estudio secuencia de alimentos| 10.2337/dc14-2765                             | Secuencia de ingesta y control glucémico                  |
-| 10     | Cap. 18   | Berry SE et al.                | Estudio clínico (PREDICT)     | 10.1016/j.cell.2020.06.017                    | Variabilidad interindividual en respuesta a alimentos      |
-| 11     | Cap. 18   | Hall H et al.                  | Estudio con CGM               | 10.1093/ajcn/nqaa258                          | Monitorización de glucosa y nutrición personalizada        |
+| # Cita | Fuente                         | Tipo de evidencia             | Revista                       | DOI / URL                                     | Resumen                                                   |
+|--------|--------------------------------|-------------------------------|-------------------------------|------------------------------------------------|------------------------------------------------------------|
+| 1 | Wilkinson MJ et al. (2020). *Ten-hour time-restricted eating reduces weight, blood pressure, and atherogenic lipids.* | Estudio clínico en humanos | Cell Metabolism                | [10.1016/j.cmet.2020.01.004](https://pubmed.ncbi.nlm.nih.gov/32004475/) | Demuestra beneficios metabólicos del ayuno intermitente de 10h. |
+| 2 | Madeo F et al. (2014). *Caloric restriction mimetics: towards a molecular definition.* | Revisión científica | Cell                          | [10.1016/j.cell.2014.02.010](https://pubmed.ncbi.nlm.nih.gov/24630719/) | Inhibición de mTOR y activación de autofagia. |
+| 3 | Schwingshackl L et al. (2017). *Inflammatory potential of diet and mortality.* | Meta-análisis | The American Journal of Clinical Nutrition | [10.1093/ajcn/nqx010](https://pubmed.ncbi.nlm.nih.gov/28446633/) | Dieta antiinflamatoria y reducción de riesgo de mortalidad. |
+| 4 | Jakubowicz D et al. (2013). *High caloric intake at breakfast vs. dinner differentially influences weight loss in obese women.* | Estudio circadiano | Obesity                        | [10.1002/oby.20426](https://pubmed.ncbi.nlm.nih.gov/23512957/) | Comer más temprano mejora glucosa y pérdida de peso. |
+| 5 | Robinson E et al. (2013). *Eating attentively: a systematic review and meta-analysis.* | Revisión sistemática | Appetite                      | [10.1016/j.appet.2013.02.013](https://pubmed.ncbi.nlm.nih.gov/23402790/) | Mindful eating reduce la ingesta calórica. |
+| 6 | Hall H et al. (2021). *Personalized glycemic responses to food and their association with microbiome and metabolism.* | Estudio con CGM | The American Journal of Clinical Nutrition | [10.1093/ajcn/nqaa258](https://pubmed.ncbi.nlm.nih.gov/33331999/) | Personalización glucémica basada en microbiota. |
+| 7 | Berry SE et al. (2020). *Human postprandial responses to food and potential for precision nutrition.* | Estudio clínico (PREDICT) | Cell                          | [10.1016/j.cell.2020.06.017](https://pubmed.ncbi.nlm.nih.gov/32579930/) | Variabilidad individual en respuesta a alimentos. |
+| 8 | Fulgoni VL et al. (2020). *Foods higher in nutrient density are associated with better diet quality and health outcomes.* | Análisis poblacional | Nutrients                      | [10.3390/nu12082323](https://pubmed.ncbi.nlm.nih.gov/32784991/) | Densidad nutricional asociada a mejores resultados clínicos. |
+| 9 | Simopoulos AP (2002). *The importance of the omega-6/omega-3 fatty acid ratio.* | Revisión científica | Biomedicine & Pharmacotherapy | [10.1016/S0753-3322(02)00253-6](https://pubmed.ncbi.nlm.nih.gov/12442909/) | Un ratio bajo reduce inflamación crónica y riesgo cardiovascular. |
+| 10 | Shukla AP et al. (2015). *Food order has a significant impact on postprandial glucose and insulin levels.* | Estudio clínico | Diabetes Care                  | [10.2337/dc14-2765](https://pubmed.ncbi.nlm.nih.gov/25998266/) | Secuencia alimentaria reduce glucosa postprandial. |
+| 11 | Sonnenburg JL et al. (2016). *Diet–microbiota interactions as moderators of human metabolism.* | Revisión microbioma | Nature                        | [10.1038/nature17677](https://pubmed.ncbi.nlm.nih.gov/27144348/) | Dieta y microbioma: ejes centrales en longevidad metabólica. |
 
 ---
