@@ -6,7 +6,10 @@
 **Subtítulo visual:**  
 *Basado 100% en evidencia científica real. 0% pseudociencia. 0% sensacionalismo.*
 
-**Extensión objetivo:** máximo 250 páginas impresas (formato 15x23 cm)
+**Extensión objetivo:** máximo 350 páginas impresas (formato 15x23 cm)
+
+**Filosofía editorial:**  
+El lector es el protagonista activo de su longevidad. El conocimiento solo es útil si se transforma en decisiones sostenibles.
 
 ---
 
@@ -20,6 +23,17 @@ Filtra con criterio el impacto de tendencias biohacker (ej. Bryan Johnson, Liz P
 
 ---
 
+## 📘 ESTRUCTURA GLOBAL DEL LIBRO
+
+- Incluir **lema del autor** y **nota personal inicial**.
+1. Introducción
+2. Parte I – *Entiende el envejecimiento*
+3. Parte II – *Domina los pilares de la juventud*
+4. Parte III – *Hackea tu mente*
+5. Conclusión
+6. Secciones finales (índices, clasificaciones, glosario, referencias)
+
+---
 ## 📘 INSTRUCCIONES EDITORIALES GLOBALES
 
 - Incluir **lema del autor** y **nota personal inicial**.
