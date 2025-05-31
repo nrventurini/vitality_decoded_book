@@ -3,100 +3,105 @@
 
 ## 🧠 Introducción al problema
 
-Imagina una ciudad sin servicio de recolección de basura. Al principio, todo parece funcionar. Pero con los días, los residuos se acumulan en las calles, los malos olores invaden los hogares y la salud de los habitantes se deteriora.
+Piensa en una ciudad sin sistema de recogida de basura. Día tras día, los residuos se acumulan. El aire se vuelve irrespirable, las calles intransitables, las estructuras colapsan.
 
-Eso mismo ocurre en tu cuerpo cuando disminuye la **autofagia**, el sistema celular que se encarga de **reciclar componentes dañados, limpiar residuos tóxicos y mantener el orden interno**.  
-Con el tiempo, si no se reactiva, **la biología se satura… y envejece más rápido**.
+Eso es exactamente lo que ocurre cuando tu cuerpo pierde la capacidad de **autofagia**.
+
+La autofagia es el proceso mediante el cual tus células **degradan y reciclan componentes dañados**, manteniéndose jóvenes, limpias y funcionales. Su reducción con la edad no solo favorece el caos intracelular, sino que allana el camino a enfermedades degenerativas, metabólicas y al envejecimiento prematuro.
 
 ## 🧬 Explicación molecular accesible
 
-La autofagia (auto = uno mismo, fagia = comer) es un **mecanismo de reciclaje intracelular** fundamental para la longevidad. Las células encapsulan organelos defectuosos o proteínas dañadas en vesículas llamadas **autofagosomas**, que luego se fusionan con **lisosomas** para su degradación y reutilización.
+La autofagia (“auto” = uno mismo, “phagein” = devorar) es un proceso esencial de mantenimiento celular:
 
-Con la edad:
+1. Las estructuras dañadas se encapsulan en vesículas llamadas **autofagosomas**.  
+2. Estas se fusionan con **lisosomas**, donde enzimas las degradan.  
+3. Los residuos se reciclan para energía o reconstrucción.
 
-- Se acumulan **proteínas mal plegadas**, mitocondrias disfuncionales, lípidos oxidados.  
-- Se altera la expresión de genes reguladores clave: **ATG5, Beclin-1, LC3** [1].  
-- El funcionamiento lisosomal disminuye y **la señalización de limpieza falla** [2].
+Con el envejecimiento:
 
-### 🔄 Vías reguladoras clave
+- Disminuye la formación de autofagosomas.  
+- Se reduce la eficacia lisosomal.  
+- Se acumulan organelos dañados, proteínas mal plegadas y lípidos oxidados [1].
 
-- **AMPK**: sensor de baja energía, activa la autofagia.  
-- **mTOR**: cuando está activado (por nutrientes), la inhibe [3].  
-- **SIRT1**: activa autofagia mediante deacetilación de proteínas clave [4].
+Consecuencia: caos interno, estrés oxidativo, inflamación, apoptosis.
 
-> Cuando mTOR domina, acumulas. Cuando AMPK y SIRT1 dominan, limpias.
+> [ver VIS-10] Comparación entre célula con autofagia funcional vs célula envejecida con acumulación de residuos.
 
-> [ver VIS-10A] Esquema del ciclo autofágico con sus fases principales.  
-> [ver VIS-10B] Comparativa visual entre autofagia funcional y disfuncional con la edad.
+## 🧪 Vías reguladoras clave
 
----
+La autofagia está orquestada por una red de sensores y rutas metabólicas que responden a nutrientes, estrés y disponibilidad energética:
+
+- **mTOR (mammalian target of rapamycin)**: suprime la autofagia cuando hay abundancia de nutrientes. Es el gran inhibidor [2].  
+- **AMPK (AMP-activated protein kinase)**: se activa cuando hay escasez energética (como en ayuno o ejercicio). Inhibe mTOR y estimula autofagia [3].  
+- **SIRT1 (sirtuina 1)**: sensor de NAD+ que regula autofagia y reparación celular. Potenciado por restricción calórica y compuestos como resveratrol [4].  
+- **TFEB (transcription factor EB)**: maestro regulador de genes lisosomales y autofágicos. Su activación mejora la capacidad de limpieza celular [5].
+
+Estas vías no solo controlan la autofagia, sino que están profundamente entrelazadas con los procesos de longevidad y resistencia al estrés celular.
+
+> [ver VIS-10b] Esquema de las principales vías moleculares que regulan la autofagia.
 
 ## 🔥 Hackea tus hábitos
 
-Tu cuerpo ya sabe cómo activar la autofagia. Solo necesita **espacio, estímulo y ritmos**. Estos hábitos tienen evidencia clínica en humanos:
+La buena noticia es que puedes estimular la autofagia con intervenciones al alcance de tu vida diaria:
 
-- **Ayuno intermitente (14–18 h)**: reduce mTOR, activa AMPK/SIRT1 [3].  
-- **Ejercicio vigoroso (fuerza y HIIT)**: activa vías de autofagia en músculo [5].  
-- **Exposición térmica** (sauna y frío): induce expresión de chaperonas y limpieza celular [6].  
-- **Sueño profundo y regular**: favorece autofagia neuronal [7].  
-- **Compuestos bioactivos (café negro, EGCG del té verde, curcumina)**: polifenoles naturales que modulan rutas celulares como AMPK y SIRT1, estimulando la autofagia en humanos o con fuerte respaldo preclínico [8].
+- **Ayuno intermitente**: activa rutas AMPK y FoxO, promoviendo autofagia [6].  
+- **Ejercicio físico regular**: especialmente resistencia y alta intensidad [7].  
+- **Spermidina**: ha demostrado inducir autofagia en estudios celulares y en modelos animales. Existen estudios preliminares en humanos con resultados prometedores [8].  
+- **Rapamicina**: potente inductor de autofagia con robusta evidencia en modelos animales. En humanos, su uso sigue en investigación clínica por posibles efectos secundarios [9].  
+- **Termoterapia (sauna, baños calientes)**: activa mecanismos de reparación celular y autofagia en estudios preclínicos. En humanos, los beneficios son indirectos pero prometedores [10].  
+- **Restricción calórica moderada y sostenida**.
 
-> La longevidad no está solo en lo que consumes. Está también en lo que permites limpiar.
-
----
+> No se trata de comer menos. Se trata de limpiar mejor.
 
 ## 🧠 Demonios psicológicos
 
-- “Si no como cada 3 horas, catabolizo músculo.”  
-- “El ejercicio intenso me desgasta más de lo que me repara.”  
-- “Saltarse comidas es de gente obsesiva.”
+- “Mientras no tenga síntomas, estoy bien.”  
+- “El ayuno es una moda peligrosa.”  
+- “El ejercicio no cambia lo que pasa dentro de mis células.”
 
-> Demonio: **El Acumulador Celular**. Confunde saciedad con salud. Pero acumula más de lo que limpia. Y eso, envejece.
-
----
+> Demonio: **El Acumulador Celular**. Cree que ignorar la basura molecular evita sus consecuencias. Pero vive rodeado de residuos invisibles.
 
 ## 🚀 Biohack del futuro
 
-- **Spermidina**: poliamina que activa autofagia. Ensayos en humanos muestran mejoras en marcadores de envejecimiento [8].  
-- **Rapamicina en microdosis**: inhibidor de mTOR. Ensayos en curso en longevidad y salud mitocondrial [9].  
-- **Nanopartículas autofágicas dirigidas**: fase preclínica. Buscan activar autofagia localmente en cerebro o músculo.  
-- **Sensores no invasivos de autofagia activa**: en desarrollo, mediante saliva o sangre periférica.
+- **Sustancias autofagomiméticas** sin efectos inmunosupresores.  
+- **Activadores específicos de lisosomas**.  
+- **Sensores de autofagia en tiempo real** mediante wearables celulares.  
+- **Suplementos sinérgicos que activen múltiples rutas autofágicas**.  
+- **Terapias de rejuvenecimiento lisosomal** mediante edición epigenética o ARN.
 
-> El futuro de la limpieza celular es **selectivo, programado y supervisado por biomarcadores reales**.
-
----
+> El futuro no solo reciclará el pasado. Lo convertirá en vitalidad.
 
 ## 💬 Frases motivacionales
 
-- “Cuando eliges el momento de no nutrir, eliges cuándo reparar.”  
-- “Tus células también necesitan reciclar para renacer.”  
-- “No todo lo saludable suma. A veces, lo que resta… regenera.”
-
----
+- “La longevidad empieza por la limpieza.”  
+- “Eliminar residuos celulares es más poderoso que acumular suplementos.”  
+- “Autofagia: la diferencia entre vivir y solo durar.”
 
 ## 🌀 Mantra de longevidad
 
-> *“Me vacié de exceso. Y me volví funcional.”*
+> *“Reciclo mi interior. Libero mi potencial.”*
 
 ---
 
 ## 🔍 Referencias científicas
 
-[1] Mizushima, N. (2007). Autophagy: process and function. *Genes & Development*. https://doi.org/10.1101/gad.1599207  
-[2] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. https://doi.org/10.1016/j.cell.2011.05.028  
-[3] Longo, V. D., & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2016.06.001  
-[4] Madeo, F., et al. (2015). Caloric restriction mimetics. *Nat Rev Drug Discov*. https://doi.org/10.1038/nrd.2015.32  
-[5] He, C., et al. (2012). Exercise-induced autophagy in skeletal muscle. *Nature*. https://doi.org/10.1038/nature10758  
-[6] Henderson, G. C., et al. (2018). Heat stress activates autophagy and reduces oxidative stress. *J Appl Physiol*. https://doi.org/10.1152/japplphysiol.00501.2018  
-[7] Xie, L., et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*. https://doi.org/10.1126/science.1241224  
-[8] Eisenberg, T., et al. (2016). Cardioprotection and lifespan extension by the natural polyamine spermidine. *Nat Med*. https://doi.org/10.1038/nm.4222  
+[1] Rubinsztein, D. C., et al. (2011). Autophagy and aging. *Cell*. https://doi.org/10.1016/j.cell.2011.05.010  
+[2] Kim, J., & Guan, K. L. (2015). mTOR as a central hub of nutrient signalling and cell growth. *Nature Cell Biology*. https://doi.org/10.1038/ncb3311  
+[3] Herzig, S., & Shaw, R. J. (2018). AMPK: guardian of metabolism and mitochondrial homeostasis. *Nature Reviews Molecular Cell Biology*. https://doi.org/10.1038/s41580-018-0097-4  
+[4] Madeo, F., et al. (2019). Sirtuins and autophagy: partners in longevity. *Nature Reviews Molecular Cell Biology*. https://doi.org/10.1038/s41580-019-0151-0  
+[5] Settembre, C., & Ballabio, A. (2014). Lysosome: regulator of lipid degradation pathways. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2014.07.002  
+[6] de Cabo, R., et al. (2019). Effects of intermittent fasting on health, aging, and disease. *NEJM*. https://doi.org/10.1056/NEJMra1905136  
+[7] He, C., & Klionsky, D. J. (2009). Regulation mechanisms and signaling pathways of autophagy. *Annual Review of Genetics*. https://doi.org/10.1146/annurev-genet-102808-114910  
+[8] Eisenberg, T., et al. (2016). Cardioprotection and lifespan extension by spermidine in mice. *Nature Medicine*. https://doi.org/10.1038/nm.4222  
 [9] Mannick, J. B., et al. (2014). mTOR inhibition improves immune function in the elderly. *Science Translational Medicine*. https://doi.org/10.1126/scitranslmed.3009892  
+[10] Laukkanen, T., et al. (2018). Sauna bathing is associated with reduced cardiovascular and all-cause mortality. *JAMA Internal Medicine*. https://doi.org/10.1001/jamainternmed.2017.8662  
 
 ---
 
-## 🎨 VISUALIZACIÓN PROPUESTA (VIS-10A y VIS-10B)
+## 🎨 VISUALIZACIÓN PROPUESTA (VIS-10 y VIS-10b)
 
-| Código   | Título                                       | Capítulo | Prioridad | Descripción pedagógica                                                                                   | Prompt IA                                                                                                                                       | Generada | Enlace |
-|----------|-----------------------------------------------|----------|-----------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
-| VIS-10A  | Fases del proceso de autofagia               | Cap. 10  | A         | Diagrama del proceso: detección, autofagosoma, fusión lisosomal, reciclaje                               | “Diagram of the autophagy process showing stages: detection of damaged components, autophagosome formation, fusion with lysosome, degradation” | ⬜        | —      |
-| VIS-10B  | Comparación entre autofagia joven y envejecida | Cap. 10  | A         | Visual comparativo: célula con autofagia eficiente vs célula envejecida con residuos acumulados          | “Split-image showing a healthy cell with efficient autophagy and an aging cell filled with damaged organelles and aggregated proteins”          | ⬜        | —      |
+| Código   | Título                                      | Capítulo | Prioridad | Descripción pedagógica                                                                 | Prompt IA                                                                                                                                          | Generada | Enlace |
+|----------|----------------------------------------------|----------|-----------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-10   | Célula joven con autofagia vs célula vieja  | Cap. 10  | A         | Imagen dividida entre una célula con autofagia activa (autofagosomas y lisosomas) y otra con acumulación de residuos y disfunción lisosomal | “Split image showing a healthy cell performing autophagy (autophagosome-lysosome fusion) vs. aged cell with debris and lysosomal dysfunction” | ⬜        | —      |
+| VIS-10b  | Vías reguladoras de la autofagia            | Cap. 10  | A         | Diagrama molecular que muestre mTOR como inhibidor central, y AMPK, SIRT1, TFEB como activadores clave en condiciones de ayuno o estrés | “Molecular pathway diagram showing mTOR inhibiting autophagy, and AMPK, SIRT1, TFEB activating it under fasting and stress conditions” | ⬜        | —      |
+
