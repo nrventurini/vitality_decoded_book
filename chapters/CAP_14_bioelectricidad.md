@@ -62,6 +62,17 @@ Aquí aparece el **arquetipo del Desconectado Digital**: moderno, escéptico, pe
 
 ---
 
+### Visualización Propuesta (VIS)
+
+**Código VIS-14**
+**Título:** *Voltaje celular: el código bioeléctrico oculto*
+**Capítulo:** 14 – Bioelectricidad
+**Prioridad:** Alta
+**Descripción pedagógica:** Diagrama visual comparativo entre una célula joven y una célula envejecida, destacando los gradientes iónicos, canales de membrana activos/inactivos y el potencial de membrana (Vm) en cada caso. Ideal para ilustrar cómo el envejecimiento afecta el lenguaje eléctrico celular.
+**Prompt IA sugerido:** "Split-view diagram showing two cells: one young with polarized membrane potential and functional ion channels (K+, Na+, Ca2+), and one aged with depolarized potential and dysfunctional channels. Include voltage gradients across membrane."
+
+---
+
 ### Referencias
 
 \[1] Levin, M. (2007). Large-scale biophysics: ion flows and regeneration. *Trends in Cell Biology*. [https://doi.org/10.1016/j.tcb.2007.05.007](https://doi.org/10.1016/j.tcb.2007.05.007)
@@ -79,3 +90,4 @@ Aquí aparece el **arquetipo del Desconectado Digital**: moderno, escéptico, pe
 \[7] Lozano, A. M., et al. (2019). Deep brain stimulation: current challenges and future directions. *Nature Reviews Neurology*. [https://doi.org/10.1038/s41582-019-0211-0](https://doi.org/10.1038/s41582-019-0211-0)
 
 \[8] Sundelacruz, S., et al. (2009). Membrane potential controls stem cell behavior. *PNAS*. [https://doi.org/10.1073/pnas.0905191106](https://doi.org/10.1073/pnas.0905191106)
+
