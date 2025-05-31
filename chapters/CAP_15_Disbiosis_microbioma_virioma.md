@@ -3,6 +3,16 @@
 
 ## 🧫 Introducción al problema
 
+### El virioma: el ecosistema viral que también envejece contigo
+
+El virioma es la colección de virus que habita tu cuerpo. No todos son enemigos. Muchos bacteriófagos controlan la ecología intestinal. Pero con la edad, el virioma se desbalancea, y puede amplificar la disbiosis, inflamación o incluso alterar la respuesta inmune [2].
+
+La disbiosis no solo es una alteración intestinal. Es un marcador de envejecimiento sistémico.
+
+[ver VIS-15] Comparación entre microbioma diverso y equilibrado vs microbioma envejecido, disbiótico y proinflamatorio.
+
+Si este capítulo revela los daños del ecosistema envejecido, en el Capítulo 25 exploraremos cómo reprogramarlo para cultivar longevidad desde dentro.
+
 Tu cuerpo no está solo.  
 Estás habitado por billones de microorganismos que forman un ecosistema invisible: el **microbioma humano**.  
 Pero con el tiempo, este ecosistema cambia… y no para bien.
@@ -31,7 +41,26 @@ Con el envejecimiento:
 - Disminuye la diversidad microbiana.
 - Aumentan bacterias proinflamatorias (Ej. *Enterobacteriaceae*).
 - Se reduce la producción de butirato [1].
-- Cambian los patrones del virioma, reactivando virus latentes [2].
+
+---
+
+### 🦠 Nota especial: El virioma también envejece contigo
+
+Además de bacterias, tu cuerpo alberga miles de virus que forman parte del ecosistema intestinal: es el **virioma**.
+
+Aunque muchas veces ignorado, este conjunto de virus incluye:
+
+- **Bacteriófagos**, que ayudan a modular poblaciones bacterianas.
+- **Virus latentes** (como herpesvirus) que, con la edad, pueden reactivarse y alterar la inmunidad [2].
+
+El desbalance del virioma puede amplificar la disbiosis, favorecer el *inflammaging* y alterar la comunicación con tu sistema inmune.
+
+> La disbiosis no es solo un problema digestivo.  
+> Es un **marcador sistémico de envejecimiento biológico**.
+
+👉 *[Ver VIS-15]*: Comparación entre un microbioma diverso y protector vs. uno envejecido, disbiótico y proinflamatorio.
+
+> En el Capítulo 25 veremos cómo reprogramar este ecosistema invisible —bacterias y virus incluidos— para cultivar longevidad desde dentro.
 
 ---
 
@@ -119,3 +148,4 @@ Con el envejecimiento:
 | Código   | Título                                   | Capítulo | Prioridad | Descripción pedagógica                                                                                      | Prompt IA                                                                                                                                                          | Generada | Enlace |
 |----------|-------------------------------------------|----------|-----------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
 | VIS-15   | Microbioma joven vs. disbiótico en envejecimiento | Cap. 15  | A         | Comparación visual entre microbiota intestinal diversa, rica en SCFA vs. microbiota envejecida, pobre y proinflamatoria | “Split image showing diverse gut microbiota with balanced species and anti-inflammatory signals vs. aged gut with reduced diversity and proinflammatory profile” | ⬜        | —      |
+
