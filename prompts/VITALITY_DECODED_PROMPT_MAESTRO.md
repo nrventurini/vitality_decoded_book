@@ -25,23 +25,23 @@ Filtra con criterio el impacto de tendencias biohacker (ej. Bryan Johnson, Liz P
 
 ## 📘 ESTRUCTURA GLOBAL DEL LIBRO
 
-- Incluir **lema del autor** y **nota personal inicial**.
+- Incluir **lema del autor**, **nota personal inicial**, **nota editorial de reconocimiento científico**.
 1. Introducción
 2. Parte I – *Entiende el envejecimiento*
 3. Parte II – *Domina los pilares de la juventud*
 4. Parte III – *Hackea tu mente*
 5. Conclusión
 6. Secciones finales (índices, clasificaciones, glosario, referencias)
+- Incluir **sobre el autor**, **mensaje editorial final**.
 
 ---
-## 📘 INSTRUCCIONES EDITORIALES GLOBALES
+## 📘 INSTRUCCIONES EDITORIALES ESPECIALES
 
-- Incluir **lema del autor** y **nota personal inicial**.
-- Seguir la estructura oficial del libro: introducción, 3 partes, conclusiones.
 - Todos los capítulos deben incluir:
   - Referencias científicas numeradas en texto [1], [2], etc.
   - Tablas separadas para referencias (Google Sheets) y visuales (VIS).
-- Validación científica obligatoria: evidencia en humanos para hábitos, claridad en biohacks emergentes.
+- Validación científica obligatoria: evidencia en humanos para hábitos, claridad en biohacks emergentes. Biohacks emergentes deben estar matizados y referenciados.  
+
 - Visualizaciones VIS solo categoría A, cuando sean pedagógicamente necesarias.
 
 ---
@@ -73,12 +73,12 @@ Filtra con criterio el impacto de tendencias biohacker (ej. Bryan Johnson, Liz P
 **Estructura de cada capítulo Parte 2:**
 1. 🌱 Introducción vital (impacto clínico y en longevidad)  
 2. 🧠 Mecanismos biológicos activados por este pilar  
-3. 🔥 Hackea tus hábitos (de menor a mayor nivel, con evidencia humana)  
-4. 🚀 Biohack del futuro (tecnologías o herramientas emergentes)  
-5. 🧠 Demonios psicológicos (saboteadores conductuales)  
-6. 📈 Autoevaluación y progreso (preguntas o escala opcional)  
-7. 💬 3 frases motivacionales  
-8. 🌀 Mantra de longevidad
+3. 🔥 Hackea tus hábitos (Mínimo 3, de menor a mayor nivel, con evidencia humana)
+4. 🧨 Desmontando mitos (con 1–4 mitos populares y evidencia que los contradiga) 
+5. 🚀 Biohack del futuro (tecnologías o herramientas emergentes, bien contextualizadas)  
+6. 🧠 Demonios psicológicos (saboteadores conductuales)  
+8. 💬 3 frases motivacionales  
+9. 🌀 Mantra de longevidad
 
 ---
 
