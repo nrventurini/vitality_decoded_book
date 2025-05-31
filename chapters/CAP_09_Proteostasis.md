@@ -17,7 +17,7 @@ La **proteostasis** (proteína + homeostasis) depende de:
 
 - **Chaperonas moleculares**: aseguran el correcto plegado.  
 - **Proteasomas y autofagia**: degradan proteínas dañadas o mal plegadas.  
-- **Red de control del retículo endoplasmático**.
+- **Red de control del retículo endoplásmico**.
 
 Con el envejecimiento:
 
@@ -36,8 +36,8 @@ Cuidar tus proteínas es cuidar la maquinaria que te sostiene. Aunque el plegado
 - **Evita calorías en exceso**: promueven estrés oxidativo y glicación [3].  
 - **Entrena con regularidad**: activa vías de proteostasis y autofagia.  
 - **Ayuno intermitente o prolongado (controlado)**: estimula limpieza intracelular.  
-- **Polifenoles (curcumina, resveratrol, EGCG)**: inhiben agregación proteica [4].  
-- **Sauna o termoterapia**: inducen chaperonas de choque térmico (HSPs) [5].
+- **Polifenoles (curcumina, resveratrol, EGCG)**: inhiben la agregación proteica en estudios preclínicos. Aunque su biodisponibilidad y eficacia en humanos aún se investiga, muestran potencial en modelos celulares y animales [4].  
+- **Sauna o termoterapia**: inducen expresión de proteínas de choque térmico (HSPs) en estudios preclínicos y observacionales. Algunos ensayos en humanos sugieren beneficios indirectos en longevidad celular [5].
 
 > No necesitas ver tus proteínas. Pero ellas sienten todas tus elecciones.
 
@@ -55,7 +55,7 @@ Cuidar tus proteínas es cuidar la maquinaria que te sostiene. Aunque el plegado
 - **Terapia génica para aumentar proteasomas funcionales**.  
 - **Nanopartículas que degradan agregados proteicos** (ej. beta-amiloide, tau).  
 - **Sensores intracelulares de agregación** para diagnóstico precoz.  
-- **Miméticos de restricción calórica**: activan rutas de longevidad asociadas a proteostasis [6].
+- **Miméticos de restricción calórica**: activan rutas de longevidad asociadas a la proteostasis en modelos animales. Algunos compuestos están en ensayos clínicos tempranos para validar su efecto en humanos [6].
 
 > El futuro no repara lo que colapsó. El futuro previene que colapse.
 
@@ -78,12 +78,12 @@ Cuidar tus proteínas es cuidar la maquinaria que te sostiene. Aunque el plegado
 [3] Demontis, F., et al. (2013). The influence of aging and exercise on protein homeostasis. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2013.05.009  
 [4] Wätjen, W., et al. (2005). Curcumin protects against protein aggregation. *Biological Chemistry*. https://doi.org/10.1515/BC.2005.120  
 [5] Calderwood, S. K., et al. (2009). Role of heat shock proteins in aging. *International Journal of Hyperthermia*. https://doi.org/10.1080/02656730903136503  
-[6] Madeo, F., et al. (2014). Caloric restriction mimetics: towards a molecular definition. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2014.05.023  
+[6] Madeo, F., et al. (2014). Caloric restriction mimetics: towards a molecular definition. *Cell Metabolism*. https://doi.org/10.1016/j.cmet.2014.05.023
 
 ---
 
 ## 🎨 VISUALIZACIÓN PROPUESTA (VIS-09)
 
-| Código  | Título                                      | Capítulo | Prioridad | Descripción pedagógica                                                                               | Prompt IA                                                                                                                                    | Generada | Enlace |
-|---------|----------------------------------------------|----------|-----------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
-| VIS-09  | Proteostasis funcional vs colapsada          | Cap. 09  | A         | Comparación entre célula con arquitectura proteica estable y célula envejecida con agregados proteicos | “Split image showing a healthy cell with balanced proteostasis and an aging cell filled with misfolded protein aggregates and disordered cytoskeleton” | ⬜        | —      |
+| Código   | Título                                            | Capítulo | Prioridad | Descripción pedagógica                                                                          | Prompt IA                                                                                                                                    | Generada | Enlace |
+|----------|----------------------------------------------------|----------|-----------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+| VIS-09   | Comparación de proteostasis funcional vs. alterada | Cap. 9   | A         | Imagen dividida que muestra una célula con proteostasis activa y otra con agregados tóxicos     | “Split image showing a healthy cell with efficient proteostasis (clear organelles, no aggregates) vs. an aged cell full of protein clumps” | ⬜        | —      |
