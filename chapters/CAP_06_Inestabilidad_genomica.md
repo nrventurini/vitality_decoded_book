@@ -62,9 +62,9 @@ Estos marcadores permiten estimar el envejecimiento biológico y anticipar el ri
 ### Hackea tus hábitos: protege tu genoma a diario
 
 ✅ **Reduce tu exposición a genotóxicos**: minimiza el uso de plásticos, pesticidas y productos de limpieza agresivos. Prioriza el agua filtrada.
-✅ **Duerme profundamente**: durante la fase N3 del sueño profundo se activan genes clave para la reparación del ADN \[6].
-✅ **Activa Nrf2**: este regulador maestro estimula genes antioxidantes. Estimula su vía con sulforafano (brócoli), curcumina y ejercicio moderado \[7].
-✅ **Controla el estrés oxidativo**: el ayuno intermitente, la restricción calórica y polifenoles como la quercetina pueden reducir el daño al ADN \[8].
+✅ **Duerme profundamente**: durante la fase N3 del sueño profundo se activan genes clave para la reparación del ADN [6].
+✅ **Activa Nrf2**: este regulador maestro estimula genes antioxidantes. Estimula su vía con sulforafano (brócoli), curcumina y ejercicio moderado [7].
+✅ **Controla el estrés oxidativo**: el ayuno intermitente, la restricción calórica y polifenoles como la quercetina pueden reducir el daño al ADN [8].
 ✅ **Hazte pruebas genéticas**: la secuenciación de genes como BRCA1/2 puede alertarte sobre vulnerabilidades heredadas.
 
 ### Biohack del futuro: edición y vigilancia genómica personalizada
@@ -96,12 +96,12 @@ Estos marcadores permiten estimar el envejecimiento biológico y anticipar el ri
 
 ### Referencias
 
-\[1] Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annu Rev Physiol*. [https://doi.org/10.1146/annurev-physiol-030212-183715](https://doi.org/10.1146/annurev-physiol-030212-183715)
-\[2] Hoeijmakers, J. H. (2009). DNA damage, aging, and cancer. *N Engl J Med*. [https://doi.org/10.1056/NEJMra0804615](https://doi.org/10.1056/NEJMra0804615)
-\[3] De Cecco, M., et al. (2019). Transposable elements become active and mobile in the genomes of aging mammalian somatic tissues. *Aging Cell*. [https://doi.org/10.1111/acel.12995](https://doi.org/10.1111/acel.12995)
-\[4] Jackson, S. P., & Bartek, J. (2009). The DNA-damage response in human biology and disease. *Nature*. [https://doi.org/10.1038/nature08467](https://doi.org/10.1038/nature08467)
-\[5] Fenech, M. (2007). Cytokinesis-block micronucleus cytome assay. *Nat Protoc*. [https://doi.org/10.1038/nprot.2007.77](https://doi.org/10.1038/nprot.2007.77)
-\[6] Xie, L., et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*. [https://doi.org/10.1126/science.1241224](https://doi.org/10.1126/science.1241224)
-\[7] Zhang, D. D. (2006). Mechanistic studies of the Nrf2-Keap1 signaling pathway. *Drug Metab Rev*. [https://doi.org/10.1080/03602530600971974](https://doi.org/10.1080/03602530600971974)
-\[8] Park, S. H., et al. (2012). Quercetin protects against oxidative stress-induced DNA damage and apoptosis in C6 glioma cells. *J Med Food*. [https://doi.org/10.1089/jmf.2011.0183](https://doi.org/10.1089/jmf.2011.0183)
-\[9] Doudna, J. A., & Charpentier, E. (2014). Genome editing. The new frontier of genome engineering with CRISPR-Cas9. *Science*. [https://doi.org/10.1126/science.1258096](https://doi.org/10.1126/science.1258096)
+[1] Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annu Rev Physiol*. [https://doi.org/10.1146/annurev-physiol-030212-183715](https://doi.org/10.1146/annurev-physiol-030212-183715)
+[2] Hoeijmakers, J. H. (2009). DNA damage, aging, and cancer. *N Engl J Med*. [https://doi.org/10.1056/NEJMra0804615](https://doi.org/10.1056/NEJMra0804615)
+[3] De Cecco, M., et al. (2019). Transposable elements become active and mobile in the genomes of aging mammalian somatic tissues. *Aging Cell*. [https://doi.org/10.1111/acel.12995](https://doi.org/10.1111/acel.12995)
+[4] Jackson, S. P., & Bartek, J. (2009). The DNA-damage response in human biology and disease. *Nature*. [https://doi.org/10.1038/nature08467](https://doi.org/10.1038/nature08467)
+[5] Fenech, M. (2007). Cytokinesis-block micronucleus cytome assay. *Nat Protoc*. [https://doi.org/10.1038/nprot.2007.77](https://doi.org/10.1038/nprot.2007.77)
+[6] Xie, L., et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*. [https://doi.org/10.1126/science.1241224](https://doi.org/10.1126/science.1241224)
+[7] Zhang, D. D. (2006). Mechanistic studies of the Nrf2-Keap1 signaling pathway. *Drug Metab Rev*. [https://doi.org/10.1080/03602530600971974](https://doi.org/10.1080/03602530600971974)
+[8] Park, S. H., et al. (2012). Quercetin protects against oxidative stress-induced DNA damage and apoptosis in C6 glioma cells. *J Med Food*. [https://doi.org/10.1089/jmf.2011.0183](https://doi.org/10.1089/jmf.2011.0183)
+[9] Doudna, J. A., & Charpentier, E. (2014). Genome editing. The new frontier of genome engineering with CRISPR-Cas9. *Science*. [https://doi.org/10.1126/science.1258096](https://doi.org/10.1126/science.1258096)
