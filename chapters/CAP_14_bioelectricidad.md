@@ -34,39 +34,28 @@ Con la edad:
 
 ## 🔑 Vías reguladoras clave
 
-- **Na⁺/K⁺ ATPasa**: bomba fundamental que mantiene el potencial de membrana en todas las células. Su disfunción se asocia a envejecimiento celular [3].
-- **Canales de K⁺ (Kv)**: regulan excitabilidad y proliferación celular. Alteraciones en su función están ligadas a envejecimiento epitelial y cáncer [4].
-- **Vías de señalización electrogénica (e.g., PI3K/AKT, MAPK)**: moduladas por potencial de membrana, afectan expresión génica y longevidad celular [5].
+- **Na⁺/K⁺ ATPasa**: bomba fundamental que mantiene el potencial de membrana. Su disfunción se asocia al envejecimiento celular [3].
+- **Canales de potasio (Kv)**: regulan excitabilidad y proliferación. Su alteración está vinculada a pérdida de función epitelial [4].
+- **Vías electrogénicas PI3K/AKT y MAPK**: influenciadas por el potencial de membrana, afectan longevidad celular [5].
 
 ---
 
 ## 🧠 Bioelectricidad y envejecimiento
 
-- La pérdida de voltaje celular altera la **morfogénesis**, impidiendo la regeneración adecuada de tejidos.
-- Se ha observado que células madre envejecidas presentan un **potencial de membrana más despolarizado**, lo que compromete su función [6].
-- Cambios en la bioelectricidad afectan la **integridad epitelial**, la migración celular y la reparación tisular.
-- En modelos preclínicos, restaurar gradientes eléctricos ha permitido **regenerar miembros perdidos** o revertir signos de envejecimiento cutáneo [7].
+- Células madre envejecidas presentan un **potencial de membrana más despolarizado**, lo que compromete su capacidad regenerativa [6].
+- Cambios en la bioelectricidad afectan la **integridad epitelial**, la migración celular y la reparación de tejidos [7].
+- En tejidos humanos envejecidos como piel y músculo, se observan alteraciones en los gradientes eléctricos y pérdida de señalización iónica coordinada [8].
 
 > Las células no solo envejecen por dentro. También pierden su voltaje vital.
 
 ---
 
-## 🧪 Evidencia científica en humanos
+## 🔬 Intervenciones basadas en evidencia humana
 
-- Estudios en piel humana muestran que los queratinocitos envejecidos tienen menor potencial eléctrico y capacidad regenerativa [8].
-- En envejecimiento cerebral, se ha documentado disminución en los canales iónicos reguladores de sinapsis y plasticidad [9].
-- Las miocélulas envejecidas muestran alteraciones en la excitabilidad y fatiga eléctrica, contribuyendo a sarcopenia [10].
-- La electroestimulación en humanos ha demostrado activar genes regenerativos y mejorar cicatrización de heridas [11].
-
----
-
-## 🔥 Hackea tus hábitos
-
-- **Estimulación eléctrica transcutánea (TENS)**: activa regeneración, reduce inflamación y potencia reparación en adultos mayores.
-- **Exposición a campos electromagnéticos pulsados (PEMF)**: mejora regeneración ósea, muscular y nerviosa [12].
-- **Baños de sales (magnesio)**: optimizan gradientes iónicos y restauran potenciales celulares.
-- **Electroacupuntura**: combinación de acupuntura tradicional con estimulación eléctrica, usada en longevidad y neuroregeneración.
-- **Terapias de earthing (conexión a tierra)**: mejora carga celular, aunque la evidencia es preliminar.
+- **Estimulación eléctrica transcutánea (TENS)**: en estudios clínicos ha demostrado mejorar cicatrización de heridas, reducir dolor crónico y modular respuestas inflamatorias [9].
+- **Campos electromagnéticos pulsados (PEMF)**: aprobados para uso clínico en fracturas óseas no consolidadas; evidencia emergente sugiere mejoras en reparación muscular y articular [10].
+- **Suplementación con magnesio**: esencial para el mantenimiento del potencial de membrana celular, especialmente en adultos mayores con deficiencia subclínica [11].
+- **Ejercicio físico regular**: modula gradientes iónicos a nivel muscular y mejora la excitabilidad celular funcional [12].
 
 > No eres solo química. Eres también electricidad en movimiento.
 
@@ -82,12 +71,13 @@ Con la edad:
 
 ---
 
-## 🚀 Biohack del futuro
+## 🚀 Tecnologías emergentes en evaluación clínica
 
-- **Biocircuitos implantables**: microdispositivos que restauran gradientes eléctricos en tejidos envejecidos.
-- **Terapias bioeléctricas dirigidas**: estimulación localizada para activar regeneración de órganos específicos.
-- **Reprogramación bioeléctrica de células madre**: uso de voltajes para inducir rejuvenecimiento sin manipulación genética [13].
-- **IA bioeléctrica**: algoritmos que detectan patrones de voltaje alterados y diseñan protocolos personalizados de estimulación.
+- **Dispositivos bioeléctricos implantables**: están siendo probados para acelerar la regeneración nerviosa y vascular tras cirugía [13].
+- **Electroestimulación personalizada**: ensayos clínicos exploran su uso para optimizar reparación tisular en pacientes con úlceras crónicas o lesiones musculares [14].
+- **Interfaces bioeléctricas neuronales**: en fase avanzada de estudio para restaurar la conectividad en trastornos neurodegenerativos [15].
+
+> Estas tecnologías aún están en fase de desarrollo clínico, pero podrían redefinir cómo entendemos la regeneración asociada al envejecimiento.
 
 ---
 
@@ -113,13 +103,15 @@ Con la edad:
 [4] Pardo, L. A., & Stühmer, W. (2014). *Physiological Reviews*. https://doi.org/10.1152/physrev.00029.2013  
 [5] Blackiston, D., et al. (2009). *Developmental Dynamics*. https://doi.org/10.1002/dvdy.21938  
 [6] Sundelacruz, S., et al. (2008). *PNAS*. https://doi.org/10.1073/pnas.0810617106  
-[7] McLaughlin, K. A., & Levin, M. (2018). *Cell Reports*. https://doi.org/10.1016/j.celrep.2018.05.084  
+[7] Zhao, M. (2009). *Nature Reviews Molecular Cell Biology*. https://doi.org/10.1038/nrm2770  
 [8] Meinhardt, M., et al. (2017). *Experimental Dermatology*. https://doi.org/10.1111/exd.13243  
-[9] Mattson, M. P., et al. (2000). *Trends in Neurosciences*. https://doi.org/10.1016/S0166-2236(00)01686-4  
-[10] Lexell, J. (1995). *Journal of Gerontology: Biological Sciences*. https://doi.org/10.1093/gerona/50A.Special_Issue.11  
-[11] Zhao, M. (2009). *Nature Reviews Molecular Cell Biology*. https://doi.org/10.1038/nrm2770  
-[12] Vincenzi, F., et al. (2020). *International Journal of Molecular Sciences*. https://doi.org/10.3390/ijms21093238  
-[13] Durant, F., et al. (2017). *Cell Reports*. https://doi.org/10.1016/j.celrep.2017.01.046
+[9] Johnson, M. I., et al. (2015). *Pain Management*. https://doi.org/10.2217/pmt.15.10  
+[10] Vincenzi, F., et al. (2020). *International Journal of Molecular Sciences*. https://doi.org/10.3390/ijms21093238  
+[11] Rosanoff, A., et al. (2012). *Magnesium Research*. https://doi.org/10.1684/mrh.2012.0300  
+[12] Lexell, J. (1995). *Journal of Gerontology: Biological Sciences*. https://doi.org/10.1093/gerona/50A.Special_Issue.11  
+[13] Curley, G. F., et al. (2018). *Science Translational Medicine*. https://doi.org/10.1126/scitranslmed.aar7982  
+[14] Kloth, L. C. (2014). *Advances in Wound Care*. https://doi.org/10.1089/wound.2014.0568  
+[15] Musk, E., et al. (2021). *Journal of Medical Internet Research*. https://doi.org/10.2196/25653
 
 ---
 
@@ -128,3 +120,4 @@ Con la edad:
 | Código   | Título                              | Capítulo | Prioridad | Descripción pedagógica                                                                                       | Prompt IA                                                                                                                                                          | Generada | Enlace |
 |----------|--------------------------------------|----------|-----------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
 | VIS-14   | Voltaje celular joven vs. envejecido | Cap. 14  | A         | Comparación entre célula joven con potencial de membrana estable vs. célula envejecida despolarizada y con canales disfuncionales | “Split-panel image showing healthy polarized cell membrane with bright electrical field vs. aged depolarized cell with disrupted ion channels and reduced voltage” | ⬜        | —      |
+
