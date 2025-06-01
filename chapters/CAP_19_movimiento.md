@@ -17,13 +17,13 @@ Pero no se trata de entrenar más. Se trata de **moverse mejor, con inteligencia
 
 El movimiento regular, especialmente cuando incluye **variabilidad, intensidad y consistencia**, activa múltiples rutas de longevidad:
 
-- Aumenta la **biogénesis mitocondrial** y la función respiratoria celular [1].  
-- Activa **AMPK** y **PGC-1α**, reguladores clave del metabolismo energético [2].  
-- Inhibe parcialmente **mTOR**, activando autofagia [3].  
-- Mejora la **sensibilidad a la insulina** y la captación de glucosa muscular [4].  
-- Eleva el factor neurotrófico BDNF → protege el cerebro del envejecimiento [5].  
-- Disminuye los niveles de PCR, TNF-α e IL-6 → reduce *inflammaging* [6].  
-- Protege la longitud de los **telómeros** [7].  
+- Aumenta la **biogénesis mitocondrial** y la función respiratoria celular [1].
+- Activa **AMPK** y **PGC-1α**, reguladores clave del metabolismo energético [2].
+- Inhibe parcialmente **mTOR**, activando autofagia [3].
+- Mejora la **sensibilidad a la insulina** y la captación de glucosa muscular [4].
+- Eleva el factor neurotrófico BDNF → protege el cerebro del envejecimiento [5].
+- Disminuye los niveles de PCR, TNF-α e IL-6 → reduce *inflammaging* [6].
+- Protege la longitud de los **telómeros** [7].
 - Aumenta la **fractalidad fisiológica** del sistema cardiovascular [8].
 
 El cuerpo se vuelve más joven… no solo más fuerte.
@@ -54,7 +54,7 @@ Activa los ritmos circadianos, aumenta vitamina D y regula cortisol y serotonina
 
 ---
 
-## 🧠 Demonios psicológicos
+## 🧨 Desmontando mitos
 
 > “No tengo tiempo para entrenar.”  
 > “Empiezo motivado, pero lo dejo a la semana.”  
@@ -113,26 +113,8 @@ Polimorfismos como ACTN3 o ACE podrían predecir el tipo de ejercicio más efici
 | 13 | Lehrer PM et al. (2010) | Revisión | Biofeedback | [10.5298/1081-5937-38.3.09](https://pubmed.ncbi.nlm.nih.gov/21270980/) | Respiración consciente mejora HRV y función autonómica. |
 | 14 | Holick MF (2004) | Revisión | Am J Clin Nutr | [10.1093/ajcn/80.6.1678S](https://pubmed.ncbi.nlm.nih.gov/15585788/) | La luz solar influye en vitamina D y hormonas asociadas al bienestar. |
 | 15 | Verghese J et al. (2007) | Estudio observacional | N Engl J Med | [10.1056/NEJMoa066443](https://pubmed.ncbi.nlm.nih.gov/17251531/) | Patrón de marcha predice deterioro cognitivo y longevidad funcional. |
-| 16 | Mirelman A et al. (2016) | Estudio clínico | Lancet | [10.1016/S0140-6736(16)31325-3](https://pubmed.ncbi.nlm.nih.gov/27692736/) | VR con feedback reduce caídas y mejora estabilidad postural. |
-
----
-
-## 🎨 VIS-19 – Movimiento y longevidad: impacto sistémico
-
-**Código:** VIS-19  
-**Título:** Movimiento estratégico y longevidad celular  
-**Capítulo:** 19  
-**Prioridad:** A  
-**Descripción pedagógica:**  
-Infografía con:
-- Activación de rutas moleculares (AMPK, BDNF, mTOR).
-- Mejora de VO₂max, telómeros, autofagia.
-- Íconos de tipos de ejercicio y efectos.
-- Fondo visual con figura en movimiento y flechas de rejuvenecimiento.
-
-**Prompt IA sugerido:**  
-“Infographic showing how exercise activates molecular longevity pathways (AMPK, BDNF, telomere protection), increases VO₂max, and promotes mitochondrial health. Include icons of walking, HIIT, strength training, breathing movement. Central figure in motion with arrows showing rejuvenation flow.”  
-**Generada:** ⬜  
-**Enlace:** (pendiente)
+| 16 | Mirelman A et al. (2016) | Estudio clínico | Lancet | [10.101
+::contentReference[oaicite:24]{index=24}
+ 
 
 ---
